@@ -283,7 +283,7 @@ def generate_sample_dataset(n_records=650, seed=42):
                 np.random.uniform(246.0, 260.0)  # Surge
             ]), 1))
         else:
-            voltage = float(np.round(np.normal(225.0, 4.5), 1))
+            voltage = float(round(np.random.normal(225.0, 4.5), 1))
             
         # Profile calculation
         profile = type_profiles.get(lamp_type, {'kwh': 35.0, 'amp': 0.5, 'failure_bias': 0.1})
