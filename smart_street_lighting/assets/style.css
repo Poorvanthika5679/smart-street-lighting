@@ -1,0 +1,207 @@
+/* Smart Street Lighting & Energy Usage Analytics System - Custom Theme */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+:root {
+    --bg-primary: #0b1120;
+    --bg-secondary: #0f172a;
+    --card-bg: #1e293b;
+    --card-border: #334155;
+    --accent-blue: #38bdf8;
+    --accent-indigo: #818cf8;
+    --text-primary: #f8fafc;
+    --text-muted: #94a3b8;
+    --success: #10b981;
+    --warning: #f59e0b;
+    --danger: #ef4444;
+}
+
+/* Main background */
+.stApp {
+    background-color: var(--bg-primary);
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    color: var(--text-primary);
+}
+
+/* Header container */
+.header-container {
+    background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f2b48 100%);
+    padding: 1.8rem 2.2rem;
+    border-radius: 14px;
+    border: 1px solid #334155;
+    margin-bottom: 1.8rem;
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.4), 0 8px 10px -6px rgba(0, 0, 0, 0.4);
+}
+
+.header-title {
+    font-size: 1.95rem;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    background: linear-gradient(90deg, #38bdf8, #818cf8, #c084fc);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 0.35rem;
+}
+
+.header-subtitle {
+    color: #94a3b8;
+    font-size: 0.98rem;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+/* KPI Card */
+.kpi-card {
+    background: linear-gradient(145deg, #1e293b 0%, #162032 100%);
+    border: 1px solid #334155;
+    border-radius: 12px;
+    padding: 1.25rem 1.1rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+    transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+    height: 100%;
+}
+
+.kpi-card:hover {
+    transform: translateY(-2px);
+    border-color: #38bdf8;
+    box-shadow: 0 8px 20px rgba(56, 189, 248, 0.15);
+}
+
+.kpi-label {
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #94a3b8;
+    margin-bottom: 0.4rem;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+
+.kpi-value {
+    font-size: 1.85rem;
+    font-weight: 700;
+    color: #f8fafc;
+    line-height: 1.2;
+    margin-bottom: 0.25rem;
+    font-family: 'JetBrains Mono', monospace;
+}
+
+.kpi-subtext {
+    font-size: 0.75rem;
+    color: #64748b;
+}
+
+/* Badge styles */
+.badge {
+    display: inline-block;
+    padding: 0.25rem 0.65rem;
+    border-radius: 9999px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+.badge-low {
+    background-color: rgba(16, 185, 129, 0.15);
+    color: #34d399;
+    border: 1px solid rgba(16, 185, 129, 0.3);
+}
+
+.badge-medium {
+    background-color: rgba(245, 158, 11, 0.15);
+    color: #fbbf24;
+    border: 1px solid rgba(245, 158, 11, 0.3);
+}
+
+.badge-high {
+    background-color: rgba(239, 68, 68, 0.15);
+    color: #f87171;
+    border: 1px solid rgba(239, 68, 68, 0.3);
+}
+
+.badge-demo {
+    background-color: rgba(56, 189, 248, 0.15);
+    color: #38bdf8;
+    border: 1px solid rgba(56, 189, 248, 0.3);
+    padding: 0.3rem 0.8rem;
+    font-size: 0.82rem;
+}
+
+/* Section Box */
+.section-box {
+    background-color: #1e293b;
+    border: 1px solid #334155;
+    border-radius: 12px;
+    padding: 1.4rem;
+    margin-bottom: 1.5rem;
+}
+
+.section-title {
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: #f8fafc;
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    border-bottom: 1px solid #334155;
+    padding-bottom: 0.6rem;
+}
+
+/* Dataframe & Table styling */
+.stDataFrame {
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid #334155 !important;
+}
+
+/* Sidebar aesthetics */
+[data-testid="stSidebar"] {
+    background-color: #0b1120;
+    border-right: 1px solid #1e293b;
+}
+
+/* Disclaimer text */
+.disclaimer-box {
+    background-color: rgba(30, 41, 59, 0.7);
+    border-left: 4px solid #38bdf8;
+    padding: 0.75rem 1rem;
+    border-radius: 0 8px 8px 0;
+    font-size: 0.82rem;
+    color: #94a3b8;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+/* Recommendation card */
+.rec-card {
+    background: #1e293b;
+    border-radius: 10px;
+    border: 1px solid #334155;
+    padding: 1rem 1.25rem;
+    margin-bottom: 0.85rem;
+    transition: border-color 0.2s ease;
+}
+
+.rec-card:hover {
+    border-color: #475569;
+}
+
+.rec-card-urgent {
+    border-left: 4px solid #ef4444;
+}
+
+.rec-card-warning {
+    border-left: 4px solid #f59e0b;
+}
+
+.rec-card-info {
+    border-left: 4px solid #38bdf8;
+}
+
+.rec-card-success {
+    border-left: 4px solid #10b981;
+}

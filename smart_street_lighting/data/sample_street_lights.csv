@@ -1,0 +1,663 @@
+Lamp_ID,Zone,Lamp_Type,Lamp_Status,Operating_Hours,Energy_Consumption,Date_Time,Voltage,Current,Previous_Faults,Lamp_Age,Fault_Status
+SL-1001,North Residential,Solar-Hybrid LED,Active,2798.6,14.8,2026-09-19 23:24:11,254.4,0.19,0,11,0
+SL-1002,Suburban Ring,HPS (High Pressure Sodium),Active,3402.2,78.29,2026-08-25 06:24:11,227.7,1.14,0,45,0
+SL-1003,Tech Park Sector 5,LED (Smart),Active,4737.6,27.86,2026-08-22 18:24:11,222.3,0.4,1,21,0
+SL-1004,Downtown Commercial,LED (Smart),Active,5176.0,39.65,2026-09-04 01:24:11,216.2,0.39,0,7,0
+SL-1005,North Residential,LED (Smart),Active,1950.1,31.21,2026-07-28 12:24:11,256.8,0.33,1,32,0
+SL-1006,Harbor Waterfront,LED (Smart),Maintenance Required,5112.5,23.47,2026-08-27 14:24:11,230.3,0.43,0,36,1
+SL-1007,Harbor Waterfront,HPS (High Pressure Sodium),Maintenance Required,17930.7,68.42,2026-06-27 16:24:11,177.0,1.77,1,37,1
+SL-1008,Harbor Waterfront,LED (Smart),Active,7721.3,24.92,2026-07-21 23:24:11,228.7,0.36,1,35,0
+SL-1009,Downtown Commercial,LED (Smart),Active,5116.0,28.09,2026-07-18 02:24:11,184.7,0.58,1,16,0
+SL-1010,Downtown Commercial,LED (Smart),Active,3774.3,28.75,2026-06-26 09:24:11,220.2,0.39,0,15,1
+SL-1011,Tech Park Sector 5,HPS (High Pressure Sodium),Active,14412.6,45.36,2026-09-02 09:24:11,249.4,1.23,1,67,0
+SL-1012,Harbor Waterfront,LED (Smart),Active,6221.4,32.47,2026-07-13 18:24:11,226.9,0.42,0,9,0
+SL-1013,Downtown Commercial,LED (Smart),Active,3153.6,39.67,2026-06-25 03:24:11,220.4,0.28,0,28,0
+SL-1014,Suburban Ring,LED (Smart),Inactive,6269.1,32.3,2026-09-20 14:24:11,227.1,0.49,1,38,0
+SL-1015,Downtown Commercial,LED (Smart),Active,1317.8,37.6,2026-09-08 06:24:11,229.3,0.43,0,17,0
+SL-1016,Industrial Corridor,Solar-Hybrid LED,Inactive,6976.9,13.07,2026-08-24 03:24:11,227.4,0.22,0,11,0
+SL-1017,Suburban Ring,LED (Smart),Active,5668.5,28.26,2026-07-26 10:24:11,226.5,0.37,0,27,0
+SL-1018,North Residential,LED (Smart),Active,3209.1,28.29,2026-06-26 04:24:11,225.7,0.31,0,6,0
+SL-1019,North Residential,HPS (High Pressure Sodium),Active,13947.3,96.59,2026-09-19 02:24:11,,1.16,1,30,0
+SL-1020,Industrial Corridor,LED (Smart),Active,5069.7,35.89,2026-06-28 18:24:11,180.8,0.63,0,28,1
+SL-1021,Industrial Corridor,HPS (High Pressure Sodium),Active,4437.1,87.88,2026-09-22 08:24:11,225.8,1.14,2,63,0
+SL-1022,Suburban Ring,LED (Smart),Active,3371.7,32.63,2026-08-29 23:24:11,219.3,0.51,0,35,0
+SL-1023,Downtown Commercial,LED (Smart),Active,5598.9,14.58,2026-07-26 16:24:11,228.5,0.32,0,31,0
+SL-1024,North Residential,HPS (High Pressure Sodium),Active,5924.6,82.9,2026-07-17 23:24:11,224.1,1.19,3,55,0
+SL-1025,Industrial Corridor,HPS (High Pressure Sodium),Active,12342.5,86.21,2026-08-08 13:24:11,227.0,1.11,2,60,0
+SL-1026,North Residential,HPS (High Pressure Sodium),Active,8424.9,101.58,2026-07-29 21:24:11,220.3,1.18,0,57,0
+SL-1027,Industrial Corridor,HPS (High Pressure Sodium),Active,12694.2,98.48,2026-07-07 10:24:11,222.3,1.22,1,59,0
+SL-1028,Harbor Waterfront,LED (Smart),Maintenance Required,5270.9,28.52,2026-08-15 06:24:11,192.2,0.54,0,22,1
+SL-1029,Industrial Corridor,LED (Smart),Maintenance Required,4774.3,45.55,2026-07-10 17:24:11,226.5,0.43,1,26,1
+SL-1030,Downtown Commercial,Metal Halide,Active,12385.9,38.52,2026-07-25 06:24:11,222.9,0.58,3,25,0
+SL-1031,Downtown Commercial,LED (Smart),Active,7455.6,39.84,2026-06-27 00:24:11,228.8,0.41,0,16,0
+SL-1032,Industrial Corridor,LED (Smart),Active,5203.4,35.15,2026-08-12 01:24:11,225.1,0.41,0,36,0
+SL-1033,Suburban Ring,LED (Smart),Inactive,7546.5,22.75,2026-07-21 16:24:11,227.1,0.3,0,15,0
+SL-1034,Tech Park Sector 5,HPS (High Pressure Sodium),Active,13819.4,90.84,2026-07-18 13:24:11,218.3,1.05,0,56,0
+SL-1035,Industrial Corridor,Solar-Hybrid LED,Active,5141.3,21.4,2026-08-17 17:24:11,224.5,0.12,0,14,0
+SL-1036,Tech Park Sector 5,Solar-Hybrid LED,Active,3989.9,12.16,2026-08-24 12:24:11,227.8,0.25,0,26,0
+SL-1037,Tech Park Sector 5,HPS (High Pressure Sodium),Active,13353.4,91.72,2026-08-10 10:24:11,234.3,1.14,1,26,0
+SL-1038,Tech Park Sector 5,LED (Smart),Active,6705.2,22.65,2026-07-31 12:24:11,217.1,0.42,0,37,0
+SL-1039,Suburban Ring,LED (Smart),Active,7202.0,27.84,2026-08-06 03:24:11,226.7,0.26,0,20,0
+SL-1040,Industrial Corridor,HPS (High Pressure Sodium),Active,10416.5,101.34,2026-07-26 05:24:11,220.8,1.21,0,34,0
+SL-1041,North Residential,LED (Smart),Active,5707.4,21.96,2026-09-05 02:24:11,222.5,0.5,0,9,0
+SL-1042,Suburban Ring,Solar-Hybrid LED,Active,6332.4,12.62,2026-09-18 01:24:11,222.2,0.15,0,20,0
+SL-1043,Downtown Commercial,LED (Smart),,7260.4,40.68,2026-07-21 21:24:11,223.4,0.33,0,10,0
+SL-1044,Downtown Commercial,HPS (High Pressure Sodium),Active,10045.6,86.38,2026-09-17 13:24:11,229.1,1.15,2,48,0
+SL-1045,North Residential,Metal Halide,Active,12977.3,33.78,2026-09-07 11:24:11,227.2,0.49,0,57,0
+SL-1046,Industrial Corridor,LED (Smart),Active,6235.5,46.31,2026-08-24 13:24:11,225.7,0.38,0,39,0
+SL-1047,Downtown Commercial,LED (Smart),Active,7715.3,36.68,2026-07-04 15:24:11,233.3,0.37,0,22,0
+SL-1048,North Residential,LED (Smart),Active,6611.3,30.67,2026-07-17 17:24:11,222.4,0.47,0,8,0
+SL-1049,Suburban Ring,LED (Smart),Active,,27.22,2026-09-03 22:24:11,225.4,0.45,1,14,0
+SL-1050,Downtown Commercial,LED (Smart),Active,5976.1,45.77,2026-09-03 18:24:11,219.2,0.43,1,8,0
+SL-1051,Industrial Corridor,HPS (High Pressure Sodium),Active,10238.9,104.26,2026-06-29 14:24:11,229.0,1.1,3,40,0
+SL-1052,Downtown Commercial,Metal Halide,Active,13764.6,50.27,2026-07-21 10:24:11,224.9,0.56,1,52,0
+SL-1053,Harbor Waterfront,LED (Smart),Active,4034.4,23.07,2026-08-09 15:24:11,223.8,0.35,0,16,0
+SL-1054,Tech Park Sector 5,HPS (High Pressure Sodium),Active,11295.2,54.92,2026-07-17 02:24:11,232.1,1.11,2,59,0
+SL-1055,Downtown Commercial,LED (Smart),Active,2097.9,39.24,2026-08-14 01:24:11,230.4,0.34,0,15,0
+SL-1056,Industrial Corridor,LED (Smart),Active,4075.6,28.36,2026-07-09 08:24:11,223.1,0.34,1,24,0
+SL-1057,Tech Park Sector 5,LED (Smart),Active,3557.3,11.87,2026-08-21 23:24:11,218.0,0.39,1,28,0
+SL-1058,Industrial Corridor,LED (Smart),Active,6669.9,35.49,2026-09-13 07:24:11,221.9,0.29,0,27,0
+SL-1059,Downtown Commercial,LED (Smart),Active,1867.3,34.09,2026-08-08 03:24:11,225.9,0.35,0,35,0
+SL-1060,Harbor Waterfront,LED (Smart),Active,2037.6,26.49,2026-08-17 18:24:11,237.6,0.34,0,5,0
+SL-1061,Harbor Waterfront,Solar-Hybrid LED,Inactive,6458.9,11.15,2026-07-01 13:24:11,228.2,0.19,0,35,0
+SL-1062,Tech Park Sector 5,Metal Halide,Active,13616.0,20.81,2026-06-25 12:24:11,220.5,0.61,0,39,0
+SL-1063,Industrial Corridor,LED (Smart),Active,6688.2,32.73,2026-07-24 11:24:11,229.3,0.36,0,8,0
+SL-1064,Downtown Commercial,LED (Smart),Active,5354.0,36.08,2026-06-28 00:24:11,217.3,0.37,0,20,0
+SL-1065,Harbor Waterfront,LED (Smart),Active,6872.6,30.66,2026-08-15 18:24:11,222.9,0.48,0,37,0
+SL-1066,North Residential,Metal Halide,Active,8630.0,25.4,2026-07-30 04:24:11,225.9,0.45,1,69,0
+SL-1067,Suburban Ring,LED (Smart),Active,7501.7,26.59,2026-08-29 08:24:11,226.3,0.4,0,36,0
+SL-1068,North Residential,HPS (High Pressure Sodium),Active,5605.1,65.94,2026-07-06 06:24:11,223.2,1.21,2,63,0
+SL-1069,Tech Park Sector 5,HPS (High Pressure Sodium),Active,8013.8,77.46,2026-09-01 19:24:11,228.7,1.23,0,35,0
+SL-1070,North Residential,Solar-Hybrid LED,Maintenance Required,6273.3,15.13,2026-08-22 10:24:11,225.6,0.21,0,29,1
+SL-1071,Industrial Corridor,HPS (High Pressure Sodium),Active,11479.1,126.08,2026-07-09 11:24:11,220.3,1.13,1,37,0
+SL-1072,North Residential,HPS (High Pressure Sodium),Active,12025.3,75.54,2026-08-02 01:24:11,224.1,1.08,1,39,0
+SL-1073,Tech Park Sector 5,Metal Halide,Active,7791.4,18.58,2026-08-31 05:24:11,226.3,0.39,1,70,0
+SL-1074,Downtown Commercial,Solar-Hybrid LED,Inactive,4358.9,15.46,2026-09-01 18:24:11,221.0,,0,12,1
+SL-1075,North Residential,Solar-Hybrid LED,Active,3605.0,15.28,2026-07-02 14:24:11,227.1,0.15,0,13,0
+SL-1076,North Residential,HPS (High Pressure Sodium),Active,7419.1,85.0,2026-09-04 15:24:11,227.1,1.06,2,41,0
+SL-1077,Downtown Commercial,Metal Halide,Active,9911.7,42.36,2026-09-10 17:24:11,181.3,0.61,3,48,1
+SL-1078,North Residential,HPS (High Pressure Sodium),Active,7123.3,74.78,2026-08-03 00:24:11,191.8,1.63,2,28,0
+SL-1079,Harbor Waterfront,Metal Halide,Active,8601.8,38.74,2026-08-04 21:24:11,220.8,0.56,1,64,0
+SL-1080,Suburban Ring,LED (Smart),Active,4851.7,28.96,2026-07-10 19:24:11,230.8,0.38,0,5,0
+SL-1081,Downtown Commercial,Metal Halide,Active,6124.4,40.61,2026-07-13 15:24:11,219.7,0.55,0,33,1
+SL-1082,Tech Park Sector 5,LED (Smart),Active,3548.2,32.46,2026-08-14 23:24:11,224.8,0.34,0,13,0
+SL-1083,Industrial Corridor,LED (Smart),Active,1136.6,42.35,2026-07-25 13:24:11,225.4,0.35,1,32,0
+SL-1084,Downtown Commercial,Metal Halide,Inactive,4883.1,37.61,2026-07-19 11:24:11,222.4,0.54,1,67,0
+SL-1085,Downtown Commercial,Metal Halide,Active,8642.6,54.22,2026-08-09 02:24:11,227.9,0.51,1,31,0
+SL-1086,Downtown Commercial,HPS (High Pressure Sodium),Inactive,5783.1,118.93,2026-09-03 22:24:11,226.4,1.05,0,59,0
+SL-1087,Tech Park Sector 5,HPS (High Pressure Sodium),Active,8537.3,62.54,2026-08-09 02:24:11,224.9,1.13,3,48,0
+SL-1088,Tech Park Sector 5,HPS (High Pressure Sodium),Active,12057.9,52.32,2026-07-31 18:24:11,225.4,,0,55,0
+SL-1089,Tech Park Sector 5,Solar-Hybrid LED,Active,3038.2,15.16,2026-09-04 05:24:11,231.6,0.24,1,6,0
+SL-1090,Tech Park Sector 5,LED (Smart),Active,5006.2,25.52,2026-07-07 22:24:11,229.3,0.51,1,14,0
+SL-1091,Tech Park Sector 5,LED (Smart),Active,7621.2,23.45,2026-08-18 20:24:11,222.5,0.3,0,39,0
+SL-1092,North Residential,LED (Smart),Active,4336.7,25.56,2026-06-27 23:24:11,217.5,0.47,1,18,0
+SL-1093,Industrial Corridor,LED (Smart),Active,7644.4,40.57,2026-07-05 14:24:11,224.2,0.42,0,37,0
+SL-1094,Tech Park Sector 5,LED (Smart),Active,7782.6,12.62,2026-08-01 00:24:11,218.1,0.4,0,11,0
+SL-1095,Industrial Corridor,HPS (High Pressure Sodium),Active,9151.2,123.92,2026-08-08 10:24:11,219.2,1.12,0,62,0
+SL-1096,Downtown Commercial,LED (Smart),Active,8311.9,38.7,2026-08-20 09:24:11,222.3,0.39,0,13,0
+SL-1097,Harbor Waterfront,HPS (High Pressure Sodium),Active,12556.3,75.34,2026-07-28 17:24:11,223.6,1.16,1,38,1
+SL-1098,Downtown Commercial,HPS (High Pressure Sodium),Maintenance Required,9848.4,63.74,2026-08-06 17:24:11,227.0,1.33,1,35,1
+SL-1099,Suburban Ring,LED (Smart),Active,2928.2,27.86,2026-08-09 19:24:11,224.5,0.42,0,11,0
+SL-1100,Harbor Waterfront,Solar-Hybrid LED,Active,5949.7,14.76,2026-08-26 17:24:11,219.9,0.17,0,4,0
+SL-1101,Downtown Commercial,LED (Smart),Active,4083.0,27.27,2026-07-17 06:24:11,230.4,0.42,1,14,0
+SL-1102,North Residential,HPS (High Pressure Sodium),Active,6759.3,67.37,2026-08-12 04:24:11,218.5,1.02,1,44,0
+SL-1103,Tech Park Sector 5,Metal Halide,Active,9413.2,42.02,2026-07-31 02:24:11,213.8,0.42,0,32,0
+SL-1104,Harbor Waterfront,Metal Halide,Active,11397.3,30.25,2026-08-31 03:24:11,226.3,0.48,0,67,0
+SL-1105,Industrial Corridor,LED (Smart),Active,5300.6,33.58,2026-09-05 18:24:11,220.6,0.41,0,33,0
+SL-1106,Downtown Commercial,HPS (High Pressure Sodium),Active,9140.4,111.3,2026-08-10 00:24:11,228.6,1.01,0,65,0
+SL-1107,Downtown Commercial,HPS (High Pressure Sodium),Active,10459.9,89.57,2026-08-22 18:24:11,228.4,1.2,3,65,0
+SL-1108,Tech Park Sector 5,LED (Smart),Active,5743.9,29.05,2026-07-25 22:24:11,221.7,0.48,1,8,0
+SL-1109,Suburban Ring,LED (Smart),Active,2334.4,25.92,2026-08-04 18:24:11,232.7,0.4,0,24,0
+SL-1110,Tech Park Sector 5,HPS (High Pressure Sodium),Active,6748.1,60.78,2026-07-01 17:24:11,184.9,1.57,0,32,0
+SL-1111,North Residential,LED (Smart),Active,6051.0,28.49,2026-07-29 16:24:11,233.8,0.34,0,25,0
+SL-1112,Downtown Commercial,LED (Smart),Active,3142.8,37.42,2026-06-29 07:24:11,224.9,0.33,0,19,0
+SL-1113,Harbor Waterfront,HPS (High Pressure Sodium),Active,11533.2,63.72,2026-07-07 15:24:11,221.9,1.15,3,29,1
+SL-1114,Suburban Ring,HPS (High Pressure Sodium),Active,7275.6,74.17,2026-07-06 02:24:11,227.0,1.25,1,34,0
+SL-1115,Tech Park Sector 5,HPS (High Pressure Sodium),Active,10168.5,67.5,2026-08-28 13:24:11,226.4,1.1,2,65,0
+SL-1116,North Residential,HPS (High Pressure Sodium),Active,9800.6,62.64,2026-07-02 08:24:11,225.0,1.09,0,24,1
+SL-1117,Suburban Ring,HPS (High Pressure Sodium),Active,10104.7,92.71,2026-07-25 22:24:11,220.6,1.12,3,55,1
+SL-1118,Harbor Waterfront,LED (Smart),Active,6993.8,32.45,2026-07-14 20:24:11,218.3,0.31,0,5,0
+SL-1119,Downtown Commercial,HPS (High Pressure Sodium),Active,9901.4,120.02,2026-07-31 18:24:11,225.0,1.06,2,56,0
+SL-1120,North Residential,HPS (High Pressure Sodium),Active,11183.9,43.76,2026-08-01 16:24:11,222.4,1.12,2,45,1
+SL-1121,North Residential,Solar-Hybrid LED,Active,2301.7,12.27,2026-08-30 13:24:11,221.6,0.19,0,21,0
+SL-1122,North Residential,LED (Smart),Active,3246.8,24.32,2026-08-20 19:24:11,226.3,0.37,2,24,0
+SL-1123,Tech Park Sector 5,Metal Halide,Active,10416.1,26.51,2026-09-04 10:24:11,223.8,0.5,1,31,1
+SL-1124,Suburban Ring,HPS (High Pressure Sodium),Active,9961.7,99.09,2026-06-28 16:24:11,228.1,1.12,0,54,0
+SL-1125,North Residential,LED (Smart),Active,6507.3,26.93,2026-09-21 10:24:11,225.2,0.37,1,35,0
+SL-1126,Industrial Corridor,HPS (High Pressure Sodium),Active,11819.6,106.22,2026-09-21 05:24:11,221.3,1.2,1,55,0
+SL-1127,Downtown Commercial,LED (Smart),Active,6348.9,33.95,2026-07-07 08:24:11,222.4,0.4,1,24,1
+SL-1128,Harbor Waterfront,LED (Smart),Active,5221.4,24.72,2026-07-17 11:24:11,226.8,0.35,0,31,0
+SL-1129,Harbor Waterfront,HPS (High Pressure Sodium),Active,10913.8,101.04,2026-07-01 21:24:11,217.1,1.19,2,26,0
+SL-1130,North Residential,LED (Smart),Active,5244.6,35.29,2026-07-06 20:24:11,228.2,0.35,0,37,0
+SL-1131,Harbor Waterfront,LED (Smart),Active,6192.9,29.17,2026-08-20 15:24:11,230.0,0.18,1,20,0
+SL-1132,Downtown Commercial,HPS (High Pressure Sodium),Maintenance Required,6374.4,105.84,2026-06-28 01:24:11,178.2,1.49,0,63,1
+SL-1133,Downtown Commercial,LED (Smart),Active,5346.2,43.27,2026-07-24 15:24:11,225.0,0.45,1,33,0
+SL-1134,Downtown Commercial,LED (Smart),Active,4651.2,28.55,2026-06-28 07:24:11,224.5,0.49,0,36,0
+SL-1135,North Residential,HPS (High Pressure Sodium),Maintenance Required,10154.2,106.73,2026-08-14 08:24:11,228.2,1.25,0,39,1
+SL-1136,North Residential,LED (Smart),Active,4454.2,29.04,2026-07-28 12:24:11,231.3,0.36,0,23,0
+SL-1137,Downtown Commercial,LED (Smart),Active,3001.2,30.64,2026-09-21 00:24:11,229.0,0.38,0,33,0
+SL-1138,Harbor Waterfront,LED (Smart),Active,436.4,28.34,2026-09-03 08:24:11,229.0,0.41,0,21,0
+SL-1139,Suburban Ring,LED (Smart),Active,3712.8,22.59,2026-09-03 09:24:11,219.3,0.34,0,6,0
+SL-1140,Downtown Commercial,Metal Halide,Maintenance Required,9941.1,40.86,2026-08-19 13:24:11,183.7,0.7,1,66,1
+SL-1141,Industrial Corridor,HPS (High Pressure Sodium),,9552.0,90.58,2026-07-13 15:24:11,221.7,1.1,1,35,1
+SL-1142,Suburban Ring,Metal Halide,Maintenance Required,13561.7,45.0,2026-06-26 19:24:11,226.7,0.45,3,50,1
+SL-1143,Harbor Waterfront,LED (Smart),Active,4032.6,28.57,2026-07-17 20:24:11,230.2,0.29,1,26,0
+SL-1144,Suburban Ring,HPS (High Pressure Sodium),Active,12200.1,65.49,2026-08-02 17:24:11,226.7,1.2,1,65,1
+SL-1145,Downtown Commercial,Metal Halide,Inactive,9001.2,34.59,2026-07-24 00:24:11,257.3,0.44,1,71,1
+SL-1146,Suburban Ring,HPS (High Pressure Sodium),Active,7991.4,74.27,2026-08-23 20:24:11,226.2,1.07,0,50,0
+SL-1147,Industrial Corridor,Metal Halide,Maintenance Required,12794.0,44.64,2026-07-22 11:24:11,225.6,0.4,1,67,1
+SL-1148,Industrial Corridor,Solar-Hybrid LED,Maintenance Required,6174.5,17.18,2026-07-08 14:24:11,230.7,0.29,0,21,1
+SL-1149,Downtown Commercial,HPS (High Pressure Sodium),Active,7811.3,121.18,2026-08-26 08:24:11,231.2,1.03,1,24,1
+SL-1150,Tech Park Sector 5,Solar-Hybrid LED,Active,6030.2,13.74,2026-07-16 13:24:11,222.3,0.24,0,15,0
+SL-1151,North Residential,Solar-Hybrid LED,Active,701.4,15.79,2026-09-15 01:24:11,246.4,0.19,0,17,0
+SL-1152,Suburban Ring,HPS (High Pressure Sodium),Active,10292.4,109.13,2026-08-26 12:24:11,226.7,1.14,3,42,0
+SL-1153,Industrial Corridor,LED (Smart),Maintenance Required,6510.6,34.34,2026-08-10 23:24:11,232.7,0.37,1,17,1
+SL-1154,Industrial Corridor,LED (Smart),Active,6891.4,51.93,2026-09-08 01:24:11,227.9,0.27,1,12,0
+SL-1155,Suburban Ring,LED (Smart),Active,6999.2,23.13,2026-07-15 23:24:11,232.9,0.38,0,24,0
+SL-1156,Tech Park Sector 5,HPS (High Pressure Sodium),Active,9060.3,72.29,2026-08-20 00:24:11,228.6,1.14,1,46,0
+SL-1157,Tech Park Sector 5,LED (Smart),Active,6886.2,21.72,2026-08-02 08:24:11,225.5,0.43,0,16,0
+SL-1158,North Residential,Metal Halide,Active,8708.1,41.25,2026-08-09 00:24:11,225.9,0.5,2,64,0
+SL-1159,North Residential,Solar-Hybrid LED,Maintenance Required,2643.3,15.73,2026-08-09 10:24:11,229.6,0.25,0,15,1
+SL-1160,North Residential,HPS (High Pressure Sodium),Active,10837.9,67.43,2026-07-08 20:24:11,224.0,1.14,1,56,0
+SL-1161,Tech Park Sector 5,LED (Smart),Maintenance Required,4900.0,22.51,2026-09-02 08:24:11,236.5,0.36,0,14,1
+SL-1162,North Residential,LED (Smart),Active,4995.4,31.69,2026-07-22 08:24:11,216.2,0.43,0,18,0
+SL-1163,Tech Park Sector 5,LED (Smart),Active,7306.4,23.22,2026-09-07 03:24:11,223.9,0.43,1,33,0
+SL-1164,Downtown Commercial,HPS (High Pressure Sodium),Maintenance Required,8636.0,128.25,2026-07-05 04:24:11,230.9,1.12,3,60,1
+SL-1165,Industrial Corridor,Metal Halide,Active,7154.6,34.97,2026-07-20 01:24:11,225.6,0.51,0,35,0
+SL-1166,Harbor Waterfront,LED (Smart),Active,4134.0,20.68,2026-07-11 20:24:11,218.7,0.22,0,33,0
+SL-1167,Suburban Ring,LED (Smart),Active,5752.1,35.93,2026-09-19 06:24:11,215.8,0.4,0,35,0
+SL-1168,Industrial Corridor,HPS (High Pressure Sodium),Inactive,8331.4,68.83,2026-07-04 15:24:11,229.3,1.14,4,44,0
+SL-1169,Suburban Ring,HPS (High Pressure Sodium),Active,6426.1,89.33,2026-07-05 09:24:11,184.0,1.58,1,47,0
+SL-1170,Downtown Commercial,Metal Halide,Active,9903.4,40.64,2026-09-02 10:24:11,259.3,0.5,1,51,1
+SL-1171,Downtown Commercial,Metal Halide,Active,11355.2,42.91,2026-08-14 02:24:11,225.8,0.56,1,38,0
+SL-1172,Downtown Commercial,Metal Halide,Active,13229.8,35.25,2026-07-16 09:24:11,221.5,0.55,1,40,0
+SL-1173,Downtown Commercial,LED (Smart),Active,3849.1,34.22,2026-07-30 12:24:11,229.6,0.36,0,19,0
+SL-1174,North Residential,HPS (High Pressure Sodium),Active,9863.1,73.91,2026-08-07 13:24:11,224.1,1.16,0,37,1
+SL-1175,Harbor Waterfront,HPS (High Pressure Sodium),Active,13137.6,82.05,2026-08-29 19:24:11,176.4,1.59,2,40,1
+SL-1176,North Residential,LED (Smart),Active,2140.8,35.47,2026-07-25 04:24:11,226.2,0.35,0,4,0
+SL-1177,Industrial Corridor,HPS (High Pressure Sodium),Active,10515.2,83.75,2026-08-22 10:24:11,220.1,1.09,1,37,0
+SL-1178,Downtown Commercial,Metal Halide,Active,7089.3,48.16,2026-07-12 09:24:11,229.2,0.46,1,57,0
+SL-1179,North Residential,HPS (High Pressure Sodium),Active,9888.0,66.46,2026-09-14 02:24:11,225.8,1.16,3,52,0
+SL-1180,North Residential,Solar-Hybrid LED,Active,4682.0,15.32,2026-07-06 16:24:11,233.9,0.17,0,20,0
+SL-1181,Harbor Waterfront,HPS (High Pressure Sodium),Active,9993.3,77.44,2026-09-09 14:24:11,229.4,1.09,0,65,0
+SL-1182,Harbor Waterfront,LED (Smart),Active,7718.9,32.22,2026-09-19 00:24:11,222.2,0.46,0,16,0
+SL-1183,Tech Park Sector 5,Solar-Hybrid LED,Active,4018.9,12.23,2026-08-12 09:24:11,221.4,0.23,0,24,0
+SL-1184,Downtown Commercial,HPS (High Pressure Sodium),Inactive,5686.7,98.48,2026-07-10 23:24:11,219.9,0.99,0,36,0
+SL-1185,Industrial Corridor,HPS (High Pressure Sodium),Active,9537.5,96.3,2026-08-05 02:24:11,223.0,1.16,1,43,0
+SL-1186,North Residential,LED (Smart),Active,4983.3,28.83,2026-08-13 20:24:11,,0.38,0,28,0
+SL-1187,Downtown Commercial,LED (Smart),Active,5123.5,50.17,2026-06-27 19:24:11,222.2,0.39,0,6,0
+SL-1188,Suburban Ring,HPS (High Pressure Sodium),Active,13175.8,94.29,2026-07-18 21:24:11,226.5,1.17,0,38,0
+SL-1189,Suburban Ring,LED (Smart),Active,3109.1,30.35,2026-08-09 05:24:11,223.9,0.44,0,14,0
+SL-1190,Industrial Corridor,LED (Smart),Active,4868.2,31.66,2026-08-01 09:24:11,227.6,0.39,0,36,0
+SL-1191,Industrial Corridor,Metal Halide,Maintenance Required,13420.8,25.04,2026-09-01 20:24:11,191.0,0.73,0,31,1
+SL-1192,Industrial Corridor,LED (Smart),Active,5397.3,35.12,2026-07-01 15:24:11,226.9,0.34,2,21,0
+SL-1193,Tech Park Sector 5,LED (Smart),Active,5812.2,21.45,2026-07-21 21:24:11,226.9,0.46,0,27,0
+SL-1194,North Residential,LED (Smart),Active,5643.5,24.74,2026-06-24 18:24:11,223.4,0.42,0,32,0
+SL-1195,Harbor Waterfront,Solar-Hybrid LED,Inactive,6209.1,9.36,2026-08-28 05:24:11,218.5,0.32,2,30,1
+SL-1196,Downtown Commercial,HPS (High Pressure Sodium),Maintenance Required,11143.8,73.64,2026-07-13 00:24:11,233.9,1.25,4,64,1
+SL-1197,Suburban Ring,Metal Halide,Active,11155.0,30.87,2026-07-13 03:24:11,227.4,0.45,3,44,1
+SL-1198,Suburban Ring,HPS (High Pressure Sodium),Active,10609.7,99.91,2026-08-12 10:24:11,222.1,1.15,0,26,1
+SL-1199,Suburban Ring,LED (Smart),Active,3483.3,34.14,2026-09-01 00:24:11,220.4,0.43,0,9,0
+SL-1200,Harbor Waterfront,LED (Smart),Active,3580.4,19.33,2026-07-24 21:24:11,231.6,0.34,2,39,0
+SL-1201,Harbor Waterfront,HPS (High Pressure Sodium),Active,8688.1,68.35,2026-08-28 06:24:11,235.4,1.17,0,34,0
+SL-1202,Tech Park Sector 5,LED (Smart),Active,4470.2,27.84,2026-09-16 07:24:11,223.1,0.36,0,4,0
+SL-1203,Harbor Waterfront,HPS (High Pressure Sodium),Maintenance Required,9486.0,92.27,2026-07-12 04:24:11,228.0,1.2,1,68,1
+SL-1204,Harbor Waterfront,HPS (High Pressure Sodium),Maintenance Required,10637.0,88.21,2026-07-12 23:24:11,228.1,1.18,0,63,1
+SL-1205,Harbor Waterfront,HPS (High Pressure Sodium),Active,11233.7,92.09,2026-08-30 05:24:11,223.2,1.07,2,67,1
+SL-1206,North Residential,HPS (High Pressure Sodium),Active,7900.6,90.82,2026-07-13 09:24:11,218.6,1.11,1,56,0
+SL-1207,North Residential,Solar-Hybrid LED,Active,6061.7,15.19,2026-07-14 11:24:11,228.8,0.3,0,16,0
+SL-1208,Industrial Corridor,LED (Smart),Active,1796.8,36.51,2026-08-11 23:24:11,219.0,0.3,0,9,0
+SL-1209,Industrial Corridor,HPS (High Pressure Sodium),Active,11871.1,100.96,2026-08-17 07:24:11,219.2,1.16,4,25,0
+SL-1210,Downtown Commercial,Solar-Hybrid LED,Active,7212.8,23.06,2026-06-25 15:24:11,228.9,0.12,0,18,0
+SL-1211,Downtown Commercial,Solar-Hybrid LED,Active,5875.9,21.59,2026-06-24 21:24:11,186.9,0.27,0,25,0
+SL-1212,Downtown Commercial,HPS (High Pressure Sodium),Active,9437.5,108.96,2026-06-27 20:24:11,234.5,1.17,2,71,0
+SL-1213,Downtown Commercial,HPS (High Pressure Sodium),Active,5689.0,98.03,2026-08-12 14:24:11,224.7,1.14,0,46,0
+SL-1214,Industrial Corridor,LED (Smart),Maintenance Required,4312.9,32.01,2026-08-28 10:24:11,229.0,0.46,0,13,1
+SL-1215,Suburban Ring,HPS (High Pressure Sodium),Active,,78.5,2026-08-02 15:24:11,229.5,1.21,1,48,0
+SL-1216,Harbor Waterfront,LED (Smart),Active,5638.1,23.96,2026-09-19 15:24:11,231.0,0.23,0,25,0
+SL-1217,North Residential,Solar-Hybrid LED,Active,3176.8,16.04,2026-09-14 14:24:11,178.5,0.34,0,24,0
+SL-1218,Tech Park Sector 5,LED (Smart),Maintenance Required,6203.6,17.96,2026-09-16 20:24:11,219.8,0.42,1,27,1
+SL-1219,North Residential,HPS (High Pressure Sodium),Active,11804.5,112.35,2026-07-23 02:24:11,227.2,1.08,3,28,0
+SL-1220,Downtown Commercial,LED (Smart),Active,5762.6,35.35,2026-07-29 13:24:11,219.4,0.34,0,24,0
+SL-1221,North Residential,LED (Smart),Active,6957.9,35.55,2026-07-12 14:24:11,221.4,0.35,0,22,0
+SL-1222,North Residential,Metal Halide,Active,,47.17,2026-09-20 04:24:11,224.8,0.49,0,57,0
+SL-1223,Suburban Ring,LED (Smart),Active,4717.7,22.47,2026-07-19 09:24:11,221.6,0.43,0,4,0
+SL-1224,Harbor Waterfront,LED (Smart),Active,7965.5,27.68,2026-08-14 03:24:11,221.4,0.45,0,10,1
+SL-1225,Industrial Corridor,LED (Smart),Active,5078.3,36.84,2026-07-13 21:24:11,230.3,0.38,2,39,0
+SL-1226,Downtown Commercial,LED (Smart),Active,3560.3,48.29,2026-07-18 15:24:11,224.1,0.4,0,14,0
+SL-1227,Harbor Waterfront,Metal Halide,Active,12315.7,29.95,2026-07-02 17:24:11,228.5,0.59,0,62,0
+SL-1228,Tech Park Sector 5,Metal Halide,Active,10045.0,20.65,2026-08-21 19:24:11,221.6,0.45,1,60,0
+SL-1229,Harbor Waterfront,HPS (High Pressure Sodium),Maintenance Required,7230.6,72.29,2026-08-01 02:24:11,231.8,1.2,1,34,1
+SL-1230,Harbor Waterfront,LED (Smart),Active,6108.9,34.59,2026-07-26 19:24:11,224.3,0.42,0,16,1
+SL-1231,Downtown Commercial,Metal Halide,Active,10613.8,33.06,2026-07-22 18:24:11,230.0,0.48,3,58,0
+SL-1232,Downtown Commercial,Solar-Hybrid LED,Active,5960.3,16.9,2026-07-07 04:24:11,224.9,0.11,1,34,0
+SL-1233,Harbor Waterfront,LED (Smart),Active,,21.39,2026-08-20 14:24:11,254.7,0.33,0,33,0
+SL-1234,North Residential,LED (Smart),Active,7983.8,31.55,2026-08-17 16:24:11,222.8,0.39,0,7,0
+SL-1235,Harbor Waterfront,LED (Smart),Inactive,8796.0,33.34,2026-09-18 20:24:11,223.0,0.39,0,28,0
+SL-1236,Downtown Commercial,HPS (High Pressure Sodium),Active,12577.2,139.16,2026-08-09 01:24:11,232.6,1.12,0,24,1
+SL-1237,Industrial Corridor,LED (Smart),Maintenance Required,4078.7,33.13,2026-08-28 15:24:11,213.6,0.39,2,23,1
+SL-1238,Downtown Commercial,HPS (High Pressure Sodium),Active,9315.1,81.64,2026-08-08 02:24:11,223.0,1.19,0,43,0
+SL-1239,Downtown Commercial,LED (Smart),Active,7485.6,34.24,2026-08-16 10:24:11,230.4,0.37,0,20,0
+SL-1240,Suburban Ring,LED (Smart),Active,4087.5,27.44,2026-09-15 14:24:11,231.2,0.33,0,14,0
+SL-1241,Downtown Commercial,Metal Halide,Active,8289.9,46.37,2026-09-19 09:24:11,223.3,0.55,1,51,0
+SL-1242,Industrial Corridor,Metal Halide,Active,13280.0,42.48,2026-08-20 10:24:11,224.5,0.56,1,28,0
+SL-1243,Industrial Corridor,HPS (High Pressure Sodium),Active,7911.1,109.1,2026-09-04 23:24:11,231.8,1.0,2,63,0
+SL-1244,North Residential,Metal Halide,Active,10433.7,35.27,2026-09-09 01:24:11,221.8,0.58,1,41,0
+SL-1245,Tech Park Sector 5,LED (Smart),Active,5989.3,22.71,2026-07-31 19:24:11,213.4,0.39,0,31,0
+SL-1246,Harbor Waterfront,LED (Smart),Active,3507.7,25.32,2026-09-20 20:24:11,224.0,0.41,0,13,0
+SL-1247,Harbor Waterfront,HPS (High Pressure Sodium),Active,5328.9,88.77,2026-07-11 11:24:11,222.1,1.02,2,65,0
+SL-1248,Downtown Commercial,LED (Smart),Active,6135.9,46.89,2026-07-07 05:24:11,229.5,0.39,0,11,0
+SL-1249,Downtown Commercial,LED (Smart),Active,4142.4,59.74,2026-08-17 02:24:11,227.3,0.25,0,22,0
+SL-1250,Industrial Corridor,LED (Smart),Active,7557.4,36.42,2026-08-05 06:24:11,224.1,0.41,1,18,0
+SL-1251,Tech Park Sector 5,HPS (High Pressure Sodium),Active,10396.1,59.43,2026-08-11 14:24:11,230.0,1.1,3,46,0
+SL-1252,North Residential,LED (Smart),Active,6975.2,32.4,2026-07-31 06:24:11,232.7,0.29,0,22,0
+SL-1253,Industrial Corridor,HPS (High Pressure Sodium),Active,9732.1,98.26,2026-09-14 03:24:11,222.3,1.05,0,40,0
+SL-1254,Downtown Commercial,LED (Smart),Active,3938.6,29.45,2026-07-18 13:24:11,223.1,0.3,0,7,0
+SL-1255,Downtown Commercial,Solar-Hybrid LED,Active,6336.9,14.45,2026-07-06 10:24:11,228.8,0.2,0,18,0
+SL-1256,Downtown Commercial,LED (Smart),Active,3847.8,37.22,2026-08-01 02:24:11,220.2,0.35,0,5,0
+SL-1257,North Residential,LED (Smart),Maintenance Required,7269.7,34.41,2026-07-04 07:24:11,226.2,0.42,0,26,1
+SL-1258,Harbor Waterfront,LED (Smart),Active,5380.4,32.98,2026-09-07 18:24:11,224.0,0.4,1,32,0
+SL-1259,Harbor Waterfront,Solar-Hybrid LED,Maintenance Required,2564.8,12.94,2026-06-24 12:24:11,222.4,0.13,0,12,1
+SL-1260,Suburban Ring,HPS (High Pressure Sodium),Active,4089.2,66.09,2026-07-10 17:24:11,223.5,1.11,1,45,0
+SL-1261,North Residential,Metal Halide,Active,2419.6,36.42,2026-08-09 16:24:11,222.6,0.61,2,50,0
+SL-1262,Tech Park Sector 5,HPS (High Pressure Sodium),Inactive,13808.7,73.05,2026-07-29 04:24:11,227.2,1.1,0,27,0
+SL-1263,Downtown Commercial,LED (Smart),Active,6016.3,32.75,2026-07-31 03:24:11,232.2,0.52,1,20,1
+SL-1264,Industrial Corridor,LED (Smart),Active,4631.9,25.46,2026-07-18 02:24:11,222.6,0.4,0,19,0
+SL-1265,Tech Park Sector 5,HPS (High Pressure Sodium),Active,8860.2,43.15,2026-06-30 11:24:11,219.8,1.17,0,58,0
+SL-1266,North Residential,Solar-Hybrid LED,Active,1978.1,13.64,2026-08-25 14:24:11,223.1,0.23,0,35,0
+SL-1267,North Residential,LED (Smart),Active,6294.9,30.92,2026-06-26 20:24:11,224.4,0.34,0,35,0
+SL-1268,Tech Park Sector 5,LED (Smart),Active,5598.3,14.17,2026-07-21 13:24:11,219.8,0.46,0,12,0
+SL-1269,Downtown Commercial,LED (Smart),Active,2622.9,31.14,2026-09-07 21:24:11,222.8,0.41,0,28,0
+SL-1270,Industrial Corridor,LED (Smart),Maintenance Required,4930.8,34.44,2026-09-08 00:24:11,223.1,0.38,0,38,1
+SL-1271,Industrial Corridor,Metal Halide,Active,9540.3,37.18,2026-09-13 11:24:11,224.2,0.47,1,70,0
+SL-1272,Downtown Commercial,LED (Smart),Active,2204.7,40.3,2026-07-30 14:24:11,228.9,0.4,0,32,0
+SL-1273,Downtown Commercial,LED (Smart),Active,4519.1,23.96,2026-07-24 00:24:11,219.8,0.36,0,32,0
+SL-1274,North Residential,Solar-Hybrid LED,Active,2996.0,16.46,2026-07-02 15:24:11,221.6,0.25,0,39,0
+SL-1275,Suburban Ring,LED (Smart),Active,8546.3,37.22,2026-08-15 13:24:11,229.0,0.36,0,12,0
+SL-1276,Tech Park Sector 5,HPS (High Pressure Sodium),Maintenance Required,8569.2,72.49,2026-06-27 18:24:11,227.0,1.23,3,55,1
+SL-1277,Downtown Commercial,LED (Smart),Active,3496.4,45.64,2026-08-23 09:24:11,229.1,0.48,1,14,0
+SL-1278,Harbor Waterfront,LED (Smart),Maintenance Required,7267.0,31.5,2026-09-11 13:24:11,254.5,0.34,0,36,1
+SL-1279,North Residential,LED (Smart),Active,2872.5,33.08,2026-09-09 13:24:11,233.6,0.3,0,29,0
+SL-1280,Downtown Commercial,HPS (High Pressure Sodium),Active,14377.9,100.06,2026-08-07 15:24:11,225.6,1.05,2,37,0
+SL-1281,North Residential,Metal Halide,Active,11131.6,42.34,2026-07-07 18:24:11,219.9,0.43,1,39,0
+SL-1282,Industrial Corridor,LED (Smart),Active,4365.8,36.74,2026-08-17 10:24:11,223.3,0.3,0,30,0
+SL-1283,Harbor Waterfront,Metal Halide,Maintenance Required,9747.8,26.25,2026-06-25 07:24:11,221.2,0.46,1,52,1
+SL-1284,Industrial Corridor,LED (Smart),Active,4469.1,42.17,2026-07-28 16:24:11,219.8,0.4,0,4,0
+SL-1285,Tech Park Sector 5,Metal Halide,Active,9794.7,29.32,2026-09-17 22:24:11,224.2,0.38,0,27,0
+SL-1286,Industrial Corridor,HPS (High Pressure Sodium),Active,8899.6,101.67,2026-07-04 17:24:11,221.6,1.15,2,51,0
+SL-1287,North Residential,HPS (High Pressure Sodium),Active,6740.9,84.0,2026-08-06 06:24:11,260.0,1.18,3,65,0
+SL-1288,North Residential,LED (Smart),Active,3873.1,29.02,2026-07-05 09:24:11,228.9,0.41,2,28,0
+SL-1289,North Residential,Metal Halide,Active,10124.0,28.83,2026-09-11 01:24:11,227.1,0.43,1,52,0
+SL-1290,North Residential,HPS (High Pressure Sodium),Active,3812.8,74.33,2026-08-19 18:24:11,219.6,1.12,2,61,0
+SL-1291,Downtown Commercial,HPS (High Pressure Sodium),Active,9661.9,89.93,2026-07-28 19:24:11,225.4,1.21,0,27,0
+SL-1292,Industrial Corridor,LED (Smart),Active,2836.0,41.69,2026-07-24 15:24:11,226.3,0.39,0,30,0
+SL-1293,Industrial Corridor,LED (Smart),Active,9050.9,38.59,2026-06-25 10:24:11,227.2,0.39,0,25,0
+SL-1294,Tech Park Sector 5,Metal Halide,Maintenance Required,16083.8,37.14,2026-07-20 18:24:11,227.4,0.49,3,42,1
+SL-1295,Tech Park Sector 5,LED (Smart),,6319.7,21.52,2026-07-04 15:24:11,219.2,0.34,0,21,0
+SL-1296,Industrial Corridor,LED (Smart),Active,5599.6,38.29,2026-07-07 18:24:11,230.0,0.37,1,5,0
+SL-1297,Downtown Commercial,LED (Smart),Active,5709.6,42.76,2026-06-27 06:24:11,225.7,0.47,1,26,0
+SL-1298,Industrial Corridor,LED (Smart),Active,3307.9,31.08,2026-08-23 01:24:11,253.7,0.44,0,16,0
+SL-1299,Downtown Commercial,LED (Smart),Active,8586.6,31.93,2026-09-21 05:24:11,227.7,0.43,0,25,0
+SL-1300,North Residential,LED (Smart),Active,4654.4,22.9,2026-08-23 06:24:11,223.5,0.33,0,9,0
+SL-1301,North Residential,HPS (High Pressure Sodium),Active,6973.5,104.59,2026-08-10 18:24:11,222.7,1.19,0,51,0
+SL-1302,Harbor Waterfront,HPS (High Pressure Sodium),Maintenance Required,8084.7,76.74,2026-07-28 18:24:11,224.2,1.22,1,68,1
+SL-1303,Harbor Waterfront,LED (Smart),Active,5381.4,34.15,2026-08-22 12:24:11,224.7,0.33,0,4,0
+SL-1304,Tech Park Sector 5,LED (Smart),Active,5655.8,32.24,2026-07-29 00:24:11,230.1,0.39,0,38,0
+SL-1305,Suburban Ring,Metal Halide,Maintenance Required,8888.9,40.79,2026-07-24 00:24:11,220.5,0.56,1,63,1
+SL-1306,Industrial Corridor,HPS (High Pressure Sodium),Active,14144.3,71.69,2026-07-03 08:24:11,224.2,1.15,0,41,0
+SL-1307,Tech Park Sector 5,HPS (High Pressure Sodium),Maintenance Required,4850.2,62.11,2026-07-31 17:24:11,248.6,1.15,1,36,1
+SL-1308,Suburban Ring,LED (Smart),Active,3199.2,21.23,2026-08-11 22:24:11,231.2,0.43,0,38,0
+SL-1309,Tech Park Sector 5,LED (Smart),Active,6272.7,21.07,2026-08-07 17:24:11,221.3,0.33,0,12,0
+SL-1310,Harbor Waterfront,LED (Smart),Active,4928.3,34.25,2026-07-08 15:24:11,219.2,0.36,0,34,0
+SL-1311,Downtown Commercial,LED (Smart),Active,6928.6,42.22,2026-07-01 14:24:11,230.7,0.32,0,8,1
+SL-1312,Suburban Ring,LED (Smart),Maintenance Required,4093.0,28.08,2026-08-19 10:24:11,218.9,0.35,0,38,1
+SL-1313,North Residential,Metal Halide,Active,10701.5,33.21,2026-09-01 14:24:11,220.6,0.57,2,54,0
+SL-1314,Tech Park Sector 5,HPS (High Pressure Sodium),Active,11553.6,61.82,2026-07-29 10:24:11,225.2,1.21,2,42,0
+SL-1315,Harbor Waterfront,Solar-Hybrid LED,Maintenance Required,3159.9,11.7,2026-06-30 11:24:11,238.1,0.18,0,11,1
+SL-1316,North Residential,LED (Smart),Active,3445.0,24.02,2026-08-18 18:24:11,178.4,0.5,0,27,0
+SL-1317,Suburban Ring,LED (Smart),Active,5523.5,30.79,2026-06-30 12:24:11,221.8,0.36,0,10,0
+SL-1318,Harbor Waterfront,HPS (High Pressure Sodium),Active,9290.7,80.33,2026-07-08 03:24:11,231.5,1.14,1,59,0
+SL-1319,Suburban Ring,HPS (High Pressure Sodium),Maintenance Required,5618.7,95.25,2026-08-10 00:24:11,181.6,1.49,1,46,1
+SL-1320,North Residential,LED (Smart),Active,4640.6,21.51,2026-09-14 09:24:11,225.6,0.39,0,33,0
+SL-1321,Downtown Commercial,LED (Smart),Active,4726.3,46.0,2026-07-28 16:24:11,218.0,0.46,0,5,0
+SL-1322,North Residential,LED (Smart),Active,5164.2,25.61,2026-08-27 03:24:11,227.4,0.42,0,5,0
+SL-1323,Downtown Commercial,HPS (High Pressure Sodium),Active,4637.3,97.18,2026-09-19 15:24:11,225.7,1.14,2,45,0
+SL-1324,North Residential,HPS (High Pressure Sodium),Active,11426.6,93.26,2026-09-20 11:24:11,221.3,1.1,3,51,0
+SL-1325,Tech Park Sector 5,Metal Halide,Maintenance Required,10023.5,29.63,2026-08-02 17:24:11,226.2,0.52,3,40,1
+SL-1326,Suburban Ring,Metal Halide,Inactive,10138.6,26.56,2026-09-18 10:24:11,217.3,0.51,3,66,0
+SL-1327,Harbor Waterfront,HPS (High Pressure Sodium),Active,6382.0,77.18,2026-09-21 02:24:11,224.3,1.09,0,65,0
+SL-1328,Tech Park Sector 5,LED (Smart),Active,5125.9,26.31,2026-08-24 09:24:11,230.9,0.36,0,37,0
+SL-1329,Suburban Ring,Metal Halide,Maintenance Required,8686.0,35.07,2026-06-25 21:24:11,229.7,0.63,4,46,1
+SL-1330,Harbor Waterfront,HPS (High Pressure Sodium),Maintenance Required,7015.3,88.2,2026-08-17 16:24:11,182.2,1.62,1,64,1
+SL-1331,Downtown Commercial,Solar-Hybrid LED,Active,3593.8,21.22,2026-06-30 20:24:11,230.3,0.25,0,19,0
+SL-1332,Downtown Commercial,HPS (High Pressure Sodium),Active,6730.0,101.16,2026-09-08 11:24:11,227.1,1.2,1,59,0
+SL-1333,Harbor Waterfront,HPS (High Pressure Sodium),Active,3995.8,62.59,2026-08-23 09:24:11,214.7,1.13,1,69,0
+SL-1334,North Residential,LED (Smart),Inactive,3470.5,26.91,2026-09-13 04:24:11,,0.36,0,27,0
+SL-1335,Downtown Commercial,HPS (High Pressure Sodium),Active,5171.4,85.39,2026-08-08 05:24:11,223.0,1.21,0,44,1
+SL-1336,Industrial Corridor,HPS (High Pressure Sodium),Inactive,9101.0,138.54,2026-08-09 04:24:11,179.9,1.54,3,70,1
+SL-1337,Industrial Corridor,Metal Halide,Active,2250.3,39.38,2026-08-08 15:24:11,230.4,0.51,0,26,0
+SL-1338,North Residential,LED (Smart),Active,4514.3,26.04,2026-09-02 20:24:11,222.2,0.52,0,13,0
+SL-1339,Downtown Commercial,LED (Smart),Active,4354.8,38.45,2026-08-06 12:24:11,224.6,0.44,2,6,0
+SL-1340,Industrial Corridor,LED (Smart),Active,3669.0,28.26,2026-08-10 13:24:11,224.5,0.28,0,31,0
+SL-1341,Harbor Waterfront,Solar-Hybrid LED,Active,3502.9,23.22,2026-08-13 19:24:11,222.1,0.24,0,19,0
+SL-1342,North Residential,Metal Halide,Active,8914.9,38.39,2026-08-15 16:24:11,222.0,0.54,2,66,0
+SL-1343,Tech Park Sector 5,Solar-Hybrid LED,Active,1498.1,13.2,2026-07-04 04:24:11,220.7,0.22,0,38,0
+SL-1344,Industrial Corridor,HPS (High Pressure Sodium),Active,10867.9,84.06,2026-07-06 04:24:11,221.1,1.16,2,27,0
+SL-1345,Downtown Commercial,LED (Smart),Active,5850.2,35.57,2026-09-08 01:24:11,218.6,0.35,0,5,0
+SL-1346,Harbor Waterfront,LED (Smart),Active,1082.9,28.14,2026-08-13 21:24:11,184.0,0.46,0,33,0
+SL-1347,Downtown Commercial,LED (Smart),Active,7496.8,39.52,2026-08-04 21:24:11,224.4,0.35,1,27,1
+SL-1348,Harbor Waterfront,LED (Smart),Active,5157.6,20.03,2026-07-12 01:24:11,222.7,0.38,0,10,0
+SL-1349,Suburban Ring,LED (Smart),Active,7677.4,22.2,2026-07-17 09:24:11,228.6,0.21,0,26,0
+SL-1350,Downtown Commercial,LED (Smart),Maintenance Required,4442.4,52.73,2026-09-17 23:24:11,228.2,0.37,0,22,1
+SL-1351,Suburban Ring,HPS (High Pressure Sodium),Active,8344.1,67.6,2026-08-13 02:24:11,226.9,1.21,0,39,0
+SL-1352,Harbor Waterfront,LED (Smart),Active,6829.3,28.64,2026-08-03 00:24:11,224.9,0.36,0,14,1
+SL-1353,Harbor Waterfront,LED (Smart),Active,3743.8,15.12,2026-08-17 11:24:11,229.5,0.39,0,19,0
+SL-1354,Downtown Commercial,LED (Smart),Active,2412.8,24.78,2026-06-28 05:24:11,221.1,0.34,0,36,0
+SL-1355,North Residential,LED (Smart),Active,6571.1,21.52,2026-09-09 15:24:11,226.8,0.43,0,6,0
+SL-1356,Suburban Ring,LED (Smart),Active,4741.2,19.52,2026-08-05 09:24:11,219.8,0.39,0,37,0
+SL-1357,Tech Park Sector 5,LED (Smart),Active,2037.0,23.96,2026-08-03 03:24:11,227.4,0.47,1,12,0
+SL-1358,Industrial Corridor,Metal Halide,Active,2716.9,29.04,2026-08-11 23:24:11,224.0,0.55,0,38,0
+SL-1359,Suburban Ring,LED (Smart),Inactive,3820.1,30.23,2026-08-08 05:24:11,229.2,0.44,0,26,0
+SL-1360,Downtown Commercial,LED (Smart),Inactive,2435.7,33.71,2026-07-03 21:24:11,224.9,0.36,0,7,0
+SL-1361,Downtown Commercial,LED (Smart),Maintenance Required,5000.1,37.38,2026-07-31 22:24:11,246.3,0.52,1,31,1
+SL-1362,Downtown Commercial,Metal Halide,Maintenance Required,12980.4,50.81,2026-09-03 08:24:11,226.5,0.5,4,56,1
+SL-1363,North Residential,Solar-Hybrid LED,Active,5012.1,12.42,2026-08-18 07:24:11,225.5,0.25,0,22,0
+SL-1364,North Residential,Solar-Hybrid LED,Active,2170.3,15.48,2026-07-01 09:24:11,222.1,0.23,0,26,0
+SL-1365,Tech Park Sector 5,HPS (High Pressure Sodium),Maintenance Required,9561.9,65.84,2026-09-01 05:24:11,227.0,1.12,3,62,1
+SL-1366,Downtown Commercial,Metal Halide,Active,8509.2,43.08,2026-07-29 09:24:11,219.9,0.59,0,34,0
+SL-1367,Harbor Waterfront,LED (Smart),Active,6777.0,27.71,2026-08-02 04:24:11,227.2,0.44,0,35,0
+SL-1368,Industrial Corridor,HPS (High Pressure Sodium),Active,7052.9,90.53,2026-08-13 14:24:11,223.7,1.17,0,30,0
+SL-1369,North Residential,Metal Halide,Active,16741.3,29.33,2026-08-19 23:24:11,229.2,0.41,1,25,0
+SL-1370,Downtown Commercial,Metal Halide,Active,6197.7,49.88,2026-07-27 17:24:11,215.4,0.43,1,62,0
+SL-1371,Tech Park Sector 5,Metal Halide,Active,9486.6,21.57,2026-09-20 04:24:11,230.4,0.44,1,60,0
+SL-1372,Tech Park Sector 5,LED (Smart),Active,2446.7,21.1,2026-08-03 03:24:11,217.8,0.42,2,16,0
+SL-1373,Harbor Waterfront,Metal Halide,Active,7267.9,26.97,2026-09-22 09:24:11,227.9,0.46,1,50,0
+SL-1374,North Residential,LED (Smart),Active,6852.6,37.14,2026-07-28 14:24:11,236.2,0.27,0,27,0
+SL-1375,Industrial Corridor,HPS (High Pressure Sodium),Active,5228.7,100.97,2026-08-19 13:24:11,216.2,1.15,0,26,0
+SL-1376,Downtown Commercial,Solar-Hybrid LED,Active,3893.9,18.31,2026-09-11 04:24:11,221.1,0.27,0,14,0
+SL-1377,Industrial Corridor,LED (Smart),Active,6951.9,24.76,2026-07-21 13:24:11,222.9,0.39,0,33,0
+SL-1378,Downtown Commercial,HPS (High Pressure Sodium),Active,10564.0,95.0,2026-07-31 16:24:11,230.0,1.11,0,62,0
+SL-1379,Downtown Commercial,HPS (High Pressure Sodium),Active,10963.2,57.98,2026-07-04 12:24:11,218.8,1.18,3,52,0
+SL-1380,North Residential,LED (Smart),Active,7194.7,25.27,2026-08-13 13:24:11,230.9,0.38,0,5,0
+SL-1381,Industrial Corridor,LED (Smart),Active,6377.1,35.27,2026-09-05 16:24:11,221.6,0.38,0,34,0
+SL-1382,Tech Park Sector 5,HPS (High Pressure Sodium),Active,9083.8,69.64,2026-08-29 09:24:11,222.9,1.17,2,67,0
+SL-1383,Suburban Ring,LED (Smart),Active,7912.0,31.43,2026-07-03 02:24:11,227.5,0.26,0,36,0
+SL-1384,Tech Park Sector 5,Metal Halide,Maintenance Required,12374.2,31.34,2026-09-20 00:24:11,185.9,0.53,0,68,1
+SL-1385,Tech Park Sector 5,HPS (High Pressure Sodium),Active,11180.9,55.94,2026-09-05 08:24:11,226.4,1.22,2,46,0
+SL-1386,North Residential,HPS (High Pressure Sodium),Inactive,9990.7,91.41,2026-09-15 12:24:11,257.3,1.18,1,29,1
+SL-1387,Downtown Commercial,Metal Halide,Active,8654.2,38.76,2026-08-17 02:24:11,224.9,0.54,0,34,0
+SL-1388,Industrial Corridor,Metal Halide,Active,4075.8,36.2,2026-09-18 18:24:11,219.6,0.42,2,27,0
+SL-1389,Downtown Commercial,HPS (High Pressure Sodium),Maintenance Required,,111.26,2026-08-23 11:24:11,233.6,1.16,1,64,1
+SL-1390,North Residential,HPS (High Pressure Sodium),Active,12896.5,65.12,2026-08-15 15:24:11,223.4,1.18,0,39,0
+SL-1391,Tech Park Sector 5,HPS (High Pressure Sodium),Maintenance Required,12185.8,54.16,2026-09-10 04:24:11,223.8,1.08,0,62,1
+SL-1392,Tech Park Sector 5,Solar-Hybrid LED,Active,3952.7,12.98,2026-09-14 03:24:11,223.4,0.2,1,38,0
+SL-1393,Industrial Corridor,LED (Smart),Active,250.0,38.68,2026-07-03 05:24:11,226.7,0.37,1,35,0
+SL-1394,Tech Park Sector 5,LED (Smart),Inactive,4098.5,23.08,2026-08-07 21:24:11,216.7,0.39,0,32,0
+SL-1395,Downtown Commercial,LED (Smart),Active,5581.7,34.05,2026-07-26 14:24:11,225.4,0.35,0,17,0
+SL-1396,Harbor Waterfront,LED (Smart),Active,4439.1,30.7,2026-07-29 10:24:11,221.3,0.4,0,33,0
+SL-1397,North Residential,LED (Smart),Active,3157.9,30.76,2026-09-02 17:24:11,221.5,0.46,0,8,0
+SL-1398,Downtown Commercial,HPS (High Pressure Sodium),Active,12937.0,134.42,2026-09-22 05:24:11,223.6,1.06,1,47,0
+SL-1399,Industrial Corridor,LED (Smart),Active,3594.4,43.1,2026-07-21 06:24:11,219.5,0.39,0,12,0
+SL-1400,Industrial Corridor,HPS (High Pressure Sodium),Active,8592.4,93.46,2026-09-01 04:24:11,227.7,1.09,4,42,0
+SL-1401,Industrial Corridor,LED (Smart),Active,3829.3,37.31,2026-06-30 01:24:11,211.9,0.36,1,33,0
+SL-1402,Industrial Corridor,HPS (High Pressure Sodium),Maintenance Required,9097.3,109.27,2026-08-01 23:24:11,218.8,1.14,0,51,1
+SL-1403,Downtown Commercial,HPS (High Pressure Sodium),Active,14887.3,90.59,2026-08-21 17:24:11,224.8,1.13,0,64,0
+SL-1404,Tech Park Sector 5,LED (Smart),Maintenance Required,5664.5,26.77,2026-08-26 05:24:11,220.3,0.45,0,12,1
+SL-1405,North Residential,HPS (High Pressure Sodium),Inactive,7134.1,67.98,2026-08-06 03:24:11,221.4,1.06,0,34,0
+SL-1406,North Residential,LED (Smart),Active,5327.2,31.98,2026-08-01 10:24:11,224.7,0.4,0,26,0
+SL-1407,Downtown Commercial,HPS (High Pressure Sodium),Active,9685.1,113.75,2026-08-31 20:24:11,222.5,1.18,1,63,0
+SL-1408,Industrial Corridor,LED (Smart),Active,8171.6,35.24,2026-06-25 18:24:11,229.4,0.36,0,34,0
+SL-1409,Tech Park Sector 5,Metal Halide,Active,12136.3,38.26,2026-08-13 16:24:11,224.6,0.52,2,43,0
+SL-1410,Downtown Commercial,Solar-Hybrid LED,Active,5654.3,22.12,2026-07-26 19:24:11,254.7,0.1,0,15,0
+SL-1411,Harbor Waterfront,LED (Smart),Active,5852.4,29.26,2026-07-08 15:24:11,223.3,0.33,0,16,0
+SL-1412,Harbor Waterfront,LED (Smart),Active,3920.2,26.73,2026-07-08 02:24:11,219.7,0.44,0,7,0
+SL-1413,Suburban Ring,HPS (High Pressure Sodium),Active,10630.8,97.99,2026-08-25 01:24:11,215.2,1.12,1,40,0
+SL-1414,Tech Park Sector 5,Solar-Hybrid LED,Active,3614.1,11.24,2026-09-11 18:24:11,221.7,0.17,1,9,0
+SL-1415,Industrial Corridor,LED (Smart),Active,4621.4,44.97,2026-08-28 20:24:11,226.7,0.36,0,24,0
+SL-1416,Downtown Commercial,HPS (High Pressure Sodium),Active,8451.4,112.85,2026-08-21 21:24:11,220.6,1.13,0,38,0
+SL-1417,North Residential,LED (Smart),Active,6024.4,33.07,2026-08-26 19:24:11,224.1,0.46,0,27,1
+SL-1418,Downtown Commercial,Solar-Hybrid LED,Active,2664.6,18.57,2026-07-31 02:24:11,222.4,0.32,1,34,0
+SL-1419,North Residential,HPS (High Pressure Sodium),Active,7857.2,87.65,2026-07-01 22:24:11,226.5,1.15,1,27,0
+SL-1420,Tech Park Sector 5,Solar-Hybrid LED,Active,5662.8,12.03,2026-07-09 06:24:11,234.1,0.26,0,15,0
+SL-1421,Suburban Ring,LED (Smart),Active,2342.7,25.31,2026-08-05 13:24:11,221.8,0.39,0,26,0
+SL-1422,Industrial Corridor,LED (Smart),Active,6572.2,33.6,2026-09-19 16:24:11,190.3,0.49,2,33,0
+SL-1423,Tech Park Sector 5,LED (Smart),Inactive,4748.9,21.99,2026-09-17 21:24:11,225.9,0.42,1,21,1
+SL-1424,North Residential,LED (Smart),Active,5984.3,26.49,2026-09-03 18:24:11,229.7,0.35,1,21,0
+SL-1425,North Residential,Metal Halide,Active,9599.6,43.35,2026-08-29 23:24:11,222.7,0.55,0,62,0
+SL-1426,Harbor Waterfront,HPS (High Pressure Sodium),Active,4903.5,92.7,2026-07-03 03:24:11,218.9,1.1,0,34,1
+SL-1427,Downtown Commercial,HPS (High Pressure Sodium),Active,8733.0,97.94,2026-09-17 02:24:11,224.8,1.28,0,62,0
+SL-1428,Industrial Corridor,HPS (High Pressure Sodium),Active,10472.9,76.81,2026-09-05 02:24:11,225.0,1.23,0,60,0
+SL-1429,North Residential,LED (Smart),Active,3489.3,29.84,2026-08-02 16:24:11,231.9,0.32,0,9,0
+SL-1430,Downtown Commercial,LED (Smart),Active,5741.5,32.94,2026-08-18 01:24:11,224.4,0.43,0,26,0
+SL-1431,Industrial Corridor,Metal Halide,Active,12298.1,46.23,2026-09-11 20:24:11,229.9,0.5,1,61,0
+SL-1432,Industrial Corridor,LED (Smart),Active,4951.4,30.79,2026-07-03 20:24:11,223.5,0.37,0,8,0
+SL-1433,Downtown Commercial,HPS (High Pressure Sodium),Active,10916.9,112.12,2026-07-23 23:24:11,221.8,1.14,1,59,0
+SL-1434,Tech Park Sector 5,Metal Halide,Active,9996.9,31.97,2026-08-25 03:24:11,225.8,0.47,0,27,0
+SL-1435,Downtown Commercial,Metal Halide,Active,9330.3,34.03,2026-09-10 12:24:11,235.2,0.44,0,67,0
+SL-1436,North Residential,Solar-Hybrid LED,Active,6115.8,15.8,2026-09-21 06:24:11,227.4,0.36,2,17,0
+SL-1437,Tech Park Sector 5,LED (Smart),Active,1895.9,28.39,2026-07-16 21:24:11,228.7,0.26,0,25,0
+SL-1438,Harbor Waterfront,HPS (High Pressure Sodium),Active,6458.5,79.96,2026-09-08 10:24:11,220.0,1.12,0,39,0
+SL-1439,Suburban Ring,Metal Halide,Active,8402.7,29.51,2026-09-01 05:24:11,223.2,0.45,0,55,0
+SL-1440,Industrial Corridor,LED (Smart),Active,7578.7,24.08,2026-08-26 19:24:11,225.4,0.39,0,34,0
+SL-1441,Downtown Commercial,HPS (High Pressure Sodium),Maintenance Required,15311.7,92.88,2026-08-23 14:24:11,225.0,1.11,0,57,1
+SL-1442,Suburban Ring,HPS (High Pressure Sodium),Active,7582.8,97.18,2026-09-01 20:24:11,225.3,1.18,3,53,0
+SL-1443,Industrial Corridor,LED (Smart),Active,5163.0,34.5,2026-08-15 03:24:11,226.8,0.36,0,22,0
+SL-1444,North Residential,LED (Smart),Active,2314.9,26.7,2026-09-12 18:24:11,223.0,0.38,2,10,1
+SL-1445,Harbor Waterfront,Metal Halide,Maintenance Required,7426.2,37.86,2026-07-06 13:24:11,226.8,0.41,1,36,1
+SL-1446,Tech Park Sector 5,HPS (High Pressure Sodium),Active,8064.7,82.67,2026-08-28 20:24:11,227.4,1.13,0,52,0
+SL-1447,Tech Park Sector 5,LED (Smart),Active,2682.0,29.0,2026-07-04 12:24:11,229.8,0.43,0,31,0
+SL-1448,North Residential,LED (Smart),Active,5591.7,29.18,2026-07-18 13:24:11,217.1,0.44,0,17,0
+SL-1449,Industrial Corridor,LED (Smart),Active,5260.9,33.86,2026-07-10 11:24:11,219.3,0.39,0,28,0
+SL-1450,Industrial Corridor,Metal Halide,Active,2289.6,35.98,2026-09-10 11:24:11,225.4,0.45,1,56,0
+SL-1451,Suburban Ring,LED (Smart),Active,7547.4,28.38,2026-09-05 21:24:11,228.0,0.39,1,32,0
+SL-1452,Suburban Ring,LED (Smart),Maintenance Required,5154.9,38.42,2026-07-19 02:24:11,221.5,0.4,0,26,1
+SL-1453,Industrial Corridor,HPS (High Pressure Sodium),Inactive,9533.6,136.35,2026-08-14 12:24:11,227.4,1.11,0,69,0
+SL-1454,Downtown Commercial,LED (Smart),Active,3366.6,34.83,2026-08-30 11:24:11,225.8,0.47,0,34,0
+SL-1455,Tech Park Sector 5,Metal Halide,Maintenance Required,5603.0,19.53,2026-09-02 17:24:11,218.3,0.54,0,30,1
+SL-1456,Industrial Corridor,LED (Smart),Active,7054.6,42.5,2026-09-13 12:24:11,221.5,0.33,1,22,0
+SL-1457,Downtown Commercial,LED (Smart),Active,3236.2,32.7,2026-08-16 18:24:11,227.6,0.55,0,16,0
+SL-1458,Downtown Commercial,Metal Halide,Active,11193.0,50.23,2026-08-18 21:24:11,220.1,0.57,2,65,0
+SL-1459,North Residential,LED (Smart),Active,1695.1,29.41,2026-07-16 05:24:11,228.1,0.37,1,4,0
+SL-1460,North Residential,LED (Smart),Active,9165.7,35.05,2026-09-03 12:24:11,221.2,0.4,1,10,1
+SL-1461,North Residential,LED (Smart),Active,6869.3,32.9,2026-09-04 14:24:11,224.3,0.4,0,7,0
+SL-1462,Suburban Ring,HPS (High Pressure Sodium),Inactive,10689.0,56.22,2026-08-13 17:24:11,175.0,1.5,1,70,1
+SL-1463,Industrial Corridor,HPS (High Pressure Sodium),Active,10587.7,108.71,2026-09-17 23:24:11,223.6,1.2,1,59,0
+SL-1464,Suburban Ring,LED (Smart),Active,3789.6,31.41,2026-07-28 01:24:11,218.1,0.46,0,21,0
+SL-1465,Harbor Waterfront,LED (Smart),Active,5374.3,37.36,2026-08-24 04:24:11,222.0,0.45,0,4,0
+SL-1466,Harbor Waterfront,LED (Smart),Active,7660.1,28.07,2026-06-26 20:24:11,221.9,0.42,0,20,0
+SL-1467,Suburban Ring,Metal Halide,Active,11021.8,29.27,2026-08-11 05:24:11,222.5,0.6,0,45,0
+SL-1468,Downtown Commercial,LED (Smart),Active,3208.3,21.28,2026-09-22 02:24:11,219.0,0.34,0,14,0
+SL-1469,Harbor Waterfront,LED (Smart),Active,2260.1,18.46,2026-07-06 13:24:11,228.6,0.4,1,32,0
+SL-1470,Tech Park Sector 5,LED (Smart),,3963.4,21.56,2026-08-27 20:24:11,222.6,0.33,1,37,1
+SL-1471,Harbor Waterfront,LED (Smart),Active,3773.4,32.67,2026-07-12 07:24:11,219.7,0.37,0,17,0
+SL-1472,Downtown Commercial,LED (Smart),Active,468.8,41.17,2026-09-18 04:24:11,226.6,0.43,0,33,0
+SL-1473,North Residential,Solar-Hybrid LED,Active,3544.3,14.54,2026-08-09 23:24:11,220.7,0.27,0,15,0
+SL-1474,Industrial Corridor,HPS (High Pressure Sodium),Active,9991.4,122.53,2026-07-13 11:24:11,218.7,1.14,0,27,0
+SL-1475,North Residential,Metal Halide,Active,7502.9,39.09,2026-08-25 00:24:11,229.8,0.48,0,33,0
+SL-1476,Industrial Corridor,Metal Halide,Active,11386.4,44.04,2026-08-21 23:24:11,225.4,0.36,1,37,0
+SL-1477,Downtown Commercial,Metal Halide,Active,8821.6,52.49,2026-08-25 07:24:11,,0.5,0,56,0
+SL-1478,Downtown Commercial,HPS (High Pressure Sodium),Maintenance Required,6117.9,120.8,2026-08-24 02:24:11,219.9,1.13,0,31,1
+SL-1479,North Residential,LED (Smart),Active,2934.6,31.16,2026-09-08 07:24:11,227.3,0.31,0,13,0
+SL-1480,Downtown Commercial,HPS (High Pressure Sodium),Active,12296.6,102.74,2026-08-13 20:24:11,256.5,1.1,0,46,0
+SL-1481,Downtown Commercial,HPS (High Pressure Sodium),Active,6860.9,133.67,2026-09-06 23:24:11,223.4,1.25,0,27,0
+SL-1482,Suburban Ring,LED (Smart),Active,2013.8,25.34,2026-07-13 10:24:11,252.8,0.43,0,38,0
+SL-1483,Industrial Corridor,LED (Smart),Active,1668.7,39.36,2026-09-14 19:24:11,229.9,0.4,1,28,0
+SL-1484,Downtown Commercial,LED (Smart),Active,5959.6,36.22,2026-09-19 07:24:11,222.4,0.44,0,31,0
+SL-1485,Tech Park Sector 5,HPS (High Pressure Sodium),Active,2652.1,68.26,2026-07-03 16:24:11,232.3,1.12,0,38,0
+SL-1486,North Residential,Metal Halide,Active,9132.3,33.46,2026-08-06 02:24:11,216.1,0.49,2,63,0
+SL-1487,Downtown Commercial,HPS (High Pressure Sodium),Active,8214.2,104.22,2026-07-10 09:24:11,229.7,1.12,3,46,0
+SL-1488,Suburban Ring,LED (Smart),Maintenance Required,7145.0,41.09,2026-06-26 14:24:11,192.4,0.45,1,29,1
+SL-1489,North Residential,Solar-Hybrid LED,Maintenance Required,6316.8,14.68,2026-07-08 17:24:11,255.2,0.27,0,38,1
+SL-1490,Tech Park Sector 5,LED (Smart),Active,250.0,25.42,2026-08-21 11:24:11,224.9,0.35,0,31,0
+SL-1491,Suburban Ring,HPS (High Pressure Sodium),Active,8133.6,60.8,2026-09-05 14:24:11,222.8,1.19,0,41,0
+SL-1492,Industrial Corridor,HPS (High Pressure Sodium),Active,10248.8,96.47,2026-07-31 06:24:11,223.0,1.18,2,58,0
+SL-1493,Suburban Ring,LED (Smart),Maintenance Required,4348.6,21.09,2026-07-17 03:24:11,217.3,0.37,0,22,1
+SL-1494,Harbor Waterfront,LED (Smart),Active,5313.7,25.26,2026-09-22 09:24:11,225.6,0.36,1,8,0
+SL-1495,North Residential,HPS (High Pressure Sodium),Active,8439.8,88.43,2026-07-08 02:24:11,250.7,1.1,1,56,0
+SL-1496,Downtown Commercial,LED (Smart),Active,4248.1,33.35,2026-07-30 11:24:11,227.0,0.41,0,18,0
+SL-1497,Industrial Corridor,LED (Smart),Inactive,4158.0,22.48,2026-08-31 15:24:11,230.6,0.27,0,9,0
+SL-1498,Tech Park Sector 5,LED (Smart),Active,8201.3,17.52,2026-08-10 11:24:11,225.1,0.27,0,16,0
+SL-1499,Downtown Commercial,LED (Smart),Active,6769.9,36.7,2026-09-05 11:24:11,233.0,0.37,1,28,0
+SL-1500,Downtown Commercial,LED (Smart),Active,6421.7,32.97,2026-09-20 11:24:11,231.8,0.32,0,7,0
+SL-1501,Tech Park Sector 5,LED (Smart),Active,6055.7,25.74,2026-08-16 01:24:11,221.2,0.36,0,18,0
+SL-1502,Downtown Commercial,LED (Smart),Active,4863.9,39.92,2026-07-20 09:24:11,234.0,0.32,0,25,0
+SL-1503,North Residential,HPS (High Pressure Sodium),Active,9330.7,62.94,2026-07-09 13:24:11,230.4,1.17,1,66,0
+SL-1504,North Residential,LED (Smart),Active,5123.0,23.75,2026-09-06 12:24:11,224.4,0.49,0,33,0
+SL-1505,North Residential,HPS (High Pressure Sodium),,5088.9,86.63,2026-08-11 20:24:11,226.3,1.19,0,54,0
+SL-1506,North Residential,LED (Smart),Active,4044.0,23.49,2026-08-15 05:24:11,216.2,0.26,0,39,0
+SL-1507,Downtown Commercial,LED (Smart),Active,3167.7,30.03,2026-08-29 21:24:11,232.1,0.36,0,18,0
+SL-1508,Downtown Commercial,LED (Smart),Active,7010.5,29.16,2026-06-28 04:24:11,221.6,0.4,1,4,0
+SL-1509,North Residential,HPS (High Pressure Sodium),Inactive,7879.5,80.5,2026-08-01 11:24:11,227.3,1.21,2,44,0
+SL-1510,Suburban Ring,LED (Smart),Active,4788.8,20.71,2026-08-18 06:24:11,218.7,0.45,0,25,0
+SL-1511,Harbor Waterfront,LED (Smart),Active,4899.0,28.7,2026-09-08 14:24:11,223.6,0.31,0,19,0
+SL-1512,Suburban Ring,Metal Halide,Maintenance Required,10028.2,40.02,2026-08-19 08:24:11,226.9,0.47,3,26,1
+SL-1513,Downtown Commercial,HPS (High Pressure Sodium),Active,9907.7,120.87,2026-07-26 19:24:11,220.2,1.05,1,27,1
+SL-1514,Harbor Waterfront,LED (Smart),Active,5525.9,34.66,2026-07-17 20:24:11,221.2,0.46,0,29,0
+SL-1515,Downtown Commercial,LED (Smart),Active,7031.9,28.08,2026-07-02 12:24:11,225.0,0.28,0,25,0
+SL-1516,Downtown Commercial,Metal Halide,Active,7879.2,36.49,2026-09-12 16:24:11,225.8,0.57,3,61,0
+SL-1517,Industrial Corridor,HPS (High Pressure Sodium),Active,5882.7,120.96,2026-08-19 17:24:11,230.7,1.12,0,49,0
+SL-1518,Tech Park Sector 5,LED (Smart),Maintenance Required,5260.1,25.88,2026-07-02 20:24:11,226.1,0.32,0,7,1
+SL-1519,Tech Park Sector 5,LED (Smart),Active,5501.8,21.76,2026-07-18 16:24:11,230.3,0.45,0,21,0
+SL-1520,Suburban Ring,Metal Halide,Active,8136.3,31.03,2026-09-20 17:24:11,220.0,0.44,0,62,0
+SL-1521,Tech Park Sector 5,LED (Smart),Active,6779.1,24.39,2026-08-13 11:24:11,224.2,0.5,0,30,0
+SL-1522,Industrial Corridor,HPS (High Pressure Sodium),Active,11909.8,105.02,2026-09-18 04:24:11,229.3,1.08,3,57,0
+SL-1523,North Residential,HPS (High Pressure Sodium),Active,12766.3,86.82,2026-08-03 18:24:11,226.3,1.12,2,45,1
+SL-1524,Tech Park Sector 5,LED (Smart),Active,5685.6,20.84,2026-08-06 05:24:11,230.3,0.44,0,24,0
+SL-1525,Tech Park Sector 5,Solar-Hybrid LED,Active,5278.7,15.42,2026-07-23 18:24:11,224.4,0.24,0,16,0
+SL-1526,Industrial Corridor,HPS (High Pressure Sodium),Inactive,8171.0,110.85,2026-07-29 12:24:11,225.8,1.25,0,54,0
+SL-1527,Harbor Waterfront,HPS (High Pressure Sodium),Active,11951.8,91.53,2026-08-23 01:24:11,184.1,1.54,1,37,1
+SL-1528,Suburban Ring,LED (Smart),Active,5472.3,31.76,2026-08-01 03:24:11,220.7,0.39,0,29,0
+SL-1529,Downtown Commercial,Solar-Hybrid LED,Inactive,3652.6,19.29,2026-07-18 03:24:11,187.0,0.43,1,12,0
+SL-1530,North Residential,LED (Smart),Active,5505.9,26.86,2026-08-05 01:24:11,230.9,0.38,1,5,0
+SL-1531,Suburban Ring,LED (Smart),Active,5060.8,28.11,2026-07-16 10:24:11,221.5,0.4,1,18,0
+SL-1532,Harbor Waterfront,LED (Smart),Active,6601.8,31.66,2026-09-01 19:24:11,181.5,0.5,0,8,1
+SL-1533,North Residential,Metal Halide,Inactive,6045.8,36.62,2026-08-14 20:24:11,218.4,0.61,0,36,1
+SL-1534,Downtown Commercial,LED (Smart),Active,6104.3,37.83,2026-07-24 16:24:11,246.8,0.21,0,36,0
+SL-1535,Tech Park Sector 5,LED (Smart),Active,4899.5,22.69,2026-08-31 03:24:11,227.7,0.3,0,35,0
+SL-1536,Downtown Commercial,LED (Smart),Active,2423.1,41.63,2026-06-26 11:24:11,225.9,0.34,0,25,0
+SL-1537,Harbor Waterfront,LED (Smart),Active,2499.9,29.05,2026-08-18 00:24:11,228.4,0.32,1,10,0
+SL-1538,Downtown Commercial,HPS (High Pressure Sodium),Active,10342.4,101.73,2026-08-26 22:24:11,226.3,1.2,1,29,0
+SL-1539,Tech Park Sector 5,Metal Halide,Active,6594.8,38.22,2026-09-09 09:24:11,176.0,0.9,1,52,0
+SL-1540,Suburban Ring,LED (Smart),Active,4322.0,27.56,2026-07-09 08:24:11,231.2,0.49,0,30,0
+SL-1541,Harbor Waterfront,LED (Smart),Active,6536.3,15.46,2026-08-30 02:24:11,224.2,0.37,0,32,1
+SL-1542,North Residential,HPS (High Pressure Sodium),Active,14948.9,65.11,2026-08-29 12:24:11,223.1,1.08,0,46,1
+SL-1543,Tech Park Sector 5,LED (Smart),Active,3319.0,25.09,2026-07-17 03:24:11,236.9,0.36,0,18,0
+SL-1544,Downtown Commercial,LED (Smart),Maintenance Required,2591.0,43.19,2026-09-02 22:24:11,257.0,0.5,0,33,1
+SL-1545,North Residential,LED (Smart),Active,5959.3,28.78,2026-09-05 08:24:11,246.3,0.31,0,7,1
+SL-1546,Harbor Waterfront,HPS (High Pressure Sodium),Active,6899.5,78.44,2026-08-16 19:24:11,228.1,1.24,1,58,1
+SL-1547,North Residential,LED (Smart),Active,6577.9,22.74,2026-07-05 04:24:11,229.6,0.33,0,37,0
+SL-1548,North Residential,Metal Halide,Active,10181.4,32.94,2026-09-03 13:24:11,222.1,0.57,0,68,0
+SL-1549,North Residential,LED (Smart),Active,6311.7,26.26,2026-09-01 22:24:11,230.4,0.39,0,13,0
+SL-1550,North Residential,LED (Smart),Active,4296.1,25.82,2026-08-24 16:24:11,222.8,0.49,1,24,0
+SL-1551,Harbor Waterfront,LED (Smart),Active,4502.9,25.94,2026-08-10 08:24:11,228.9,0.37,0,9,0
+SL-1552,Industrial Corridor,LED (Smart),Active,3602.3,33.72,2026-08-04 09:24:11,221.6,0.35,0,20,0
+SL-1553,Suburban Ring,LED (Smart),Active,5524.3,15.35,2026-09-11 15:24:11,231.6,0.45,0,12,0
+SL-1554,North Residential,HPS (High Pressure Sodium),Active,11766.4,112.37,2026-09-21 23:24:11,225.3,1.06,0,49,0
+SL-1555,Downtown Commercial,LED (Smart),Active,4572.3,32.58,2026-08-31 06:24:11,226.3,0.38,0,5,0
+SL-1556,Harbor Waterfront,HPS (High Pressure Sodium),Active,11700.2,76.6,2026-07-02 23:24:11,218.5,1.18,0,71,0
+SL-1557,Downtown Commercial,LED (Smart),Active,4949.3,41.29,2026-08-25 04:24:11,224.0,0.35,0,12,0
+SL-1558,North Residential,Metal Halide,Active,10069.4,38.61,2026-07-29 17:24:11,217.6,0.45,2,70,0
+SL-1559,Industrial Corridor,LED (Smart),Inactive,3960.2,44.66,2026-07-19 19:24:11,188.0,0.61,0,33,0
+SL-1560,Downtown Commercial,LED (Smart),Maintenance Required,2640.5,25.91,2026-08-23 21:24:11,177.9,0.53,0,27,1
+SL-1561,Harbor Waterfront,HPS (High Pressure Sodium),Maintenance Required,10408.2,78.74,2026-09-22 01:24:11,251.7,1.09,1,55,1
+SL-1562,Harbor Waterfront,Solar-Hybrid LED,Active,4635.1,8.0,2026-07-06 08:24:11,225.6,0.11,0,19,0
+SL-1563,Downtown Commercial,LED (Smart),Active,2996.9,32.24,2026-08-15 02:24:11,222.9,0.47,0,38,0
+SL-1564,Industrial Corridor,LED (Smart),Active,1281.6,34.58,2026-08-17 02:24:11,250.6,0.36,0,8,0
+SL-1565,Harbor Waterfront,Solar-Hybrid LED,Maintenance Required,5986.8,13.35,2026-08-18 23:24:11,229.8,0.3,0,33,1
+SL-1566,Downtown Commercial,HPS (High Pressure Sodium),Active,12876.9,81.92,2026-09-04 15:24:11,224.6,1.15,0,43,0
+SL-1567,Downtown Commercial,LED (Smart),Active,7860.8,38.55,2026-09-16 21:24:11,227.4,0.42,0,12,0
+SL-1568,Downtown Commercial,HPS (High Pressure Sodium),Active,7060.1,72.71,2026-06-28 23:24:11,228.0,1.16,0,35,0
+SL-1569,Harbor Waterfront,HPS (High Pressure Sodium),Active,10688.2,79.08,2026-07-31 08:24:11,221.8,1.18,1,41,0
+SL-1570,Suburban Ring,Metal Halide,Active,6927.7,29.85,2026-07-11 05:24:11,224.1,0.47,1,62,1
+SL-1571,Downtown Commercial,LED (Smart),Active,8201.3,31.78,2026-08-06 07:24:11,224.8,0.44,1,36,0
+SL-1572,Downtown Commercial,LED (Smart),Active,4281.8,45.04,2026-07-31 20:24:11,226.1,0.39,0,32,0
+SL-1573,Industrial Corridor,LED (Smart),Active,7080.3,28.95,2026-07-12 00:24:11,220.3,0.31,0,18,0
+SL-1574,Harbor Waterfront,LED (Smart),Active,6992.7,18.61,2026-07-18 03:24:11,229.6,0.44,0,31,0
+SL-1575,Industrial Corridor,LED (Smart),Active,5881.7,36.21,2026-08-09 14:24:11,214.3,0.4,0,9,0
+SL-1576,Downtown Commercial,Metal Halide,Active,8022.5,40.65,2026-08-13 16:24:11,227.0,0.45,1,66,0
+SL-1577,Tech Park Sector 5,HPS (High Pressure Sodium),Active,9263.7,92.26,2026-08-09 01:24:11,220.6,1.18,0,38,0
+SL-1578,Harbor Waterfront,HPS (High Pressure Sodium),Active,12901.0,70.18,2026-09-19 12:24:11,228.6,1.19,3,47,0
+SL-1579,Industrial Corridor,HPS (High Pressure Sodium),Active,7504.5,104.36,2026-09-22 09:24:11,226.9,1.17,0,53,0
+SL-1580,Suburban Ring,LED (Smart),Inactive,4451.7,23.28,2026-08-23 19:24:11,177.6,0.46,0,16,0
+SL-1581,Harbor Waterfront,LED (Smart),Active,4829.0,19.15,2026-08-17 03:24:11,225.6,0.34,0,37,0
+SL-1582,Tech Park Sector 5,HPS (High Pressure Sodium),Active,9947.8,37.19,2026-09-09 06:24:11,222.7,1.1,0,65,0
+SL-1583,Tech Park Sector 5,LED (Smart),Active,7432.1,29.94,2026-08-19 21:24:11,223.7,0.4,0,11,0
+SL-1584,Suburban Ring,HPS (High Pressure Sodium),Inactive,8494.8,96.49,2026-07-16 23:24:11,217.3,1.18,0,28,1
+SL-1585,Suburban Ring,LED (Smart),Active,1249.1,23.54,2026-09-05 08:24:11,228.9,0.49,0,24,0
+SL-1586,Industrial Corridor,LED (Smart),Active,5967.8,29.19,2026-08-31 20:24:11,220.5,0.32,0,31,1
+SL-1587,Harbor Waterfront,Metal Halide,Active,4646.1,48.0,2026-09-14 14:24:11,214.3,0.51,3,54,0
+SL-1588,Suburban Ring,LED (Smart),Active,7495.1,24.83,2026-09-21 09:24:11,232.4,0.38,0,20,0
+SL-1589,Tech Park Sector 5,Metal Halide,Active,7473.2,31.03,2026-07-20 02:24:11,216.9,0.5,1,70,0
+SL-1590,Suburban Ring,HPS (High Pressure Sodium),Active,10195.9,58.41,2026-07-26 17:24:11,222.9,1.05,2,57,0
+SL-1591,Harbor Waterfront,Metal Halide,Maintenance Required,12028.8,43.06,2026-09-05 04:24:11,225.1,0.37,1,33,1
+SL-1592,Downtown Commercial,LED (Smart),Active,1629.8,34.68,2026-08-28 14:24:11,229.3,0.41,0,17,0
+SL-1593,Suburban Ring,Solar-Hybrid LED,Active,7979.2,13.98,2026-08-28 14:24:11,227.3,0.15,0,17,0
+SL-1594,Industrial Corridor,LED (Smart),Active,4015.6,40.87,2026-07-16 09:24:11,223.8,0.33,2,23,0
+SL-1595,Industrial Corridor,LED (Smart),Active,9194.2,50.94,2026-07-04 09:24:11,227.0,0.32,2,36,0
+SL-1596,Tech Park Sector 5,HPS (High Pressure Sodium),Active,7612.8,70.34,2026-07-12 19:24:11,233.2,1.18,0,53,1
+SL-1597,North Residential,Solar-Hybrid LED,Active,6770.6,15.03,2026-08-12 07:24:11,221.4,0.26,0,39,0
+SL-1598,Harbor Waterfront,HPS (High Pressure Sodium),Active,6640.8,79.21,2026-07-29 10:24:11,221.7,1.16,1,43,1
+SL-1599,Tech Park Sector 5,LED (Smart),Active,5215.3,22.04,2026-08-26 09:24:11,221.2,0.41,0,39,0
+SL-1600,Suburban Ring,LED (Smart),Inactive,4787.8,23.67,2026-08-17 09:24:11,180.0,0.45,0,25,1
+SL-1601,North Residential,Metal Halide,Active,9206.9,31.91,2026-07-17 08:24:11,220.9,0.4,1,67,0
+SL-1602,Downtown Commercial,LED (Smart),Active,3906.7,28.2,2026-09-14 23:24:11,232.7,0.38,0,19,0
+SL-1603,Harbor Waterfront,LED (Smart),Active,1747.3,36.22,2026-07-14 08:24:11,229.6,0.29,0,8,0
+SL-1604,Industrial Corridor,LED (Smart),Active,6617.9,29.8,2026-09-08 11:24:11,219.0,0.3,0,27,0
+SL-1605,Industrial Corridor,HPS (High Pressure Sodium),Active,14015.2,69.54,2026-08-05 05:24:11,227.4,1.14,2,53,0
+SL-1606,Downtown Commercial,HPS (High Pressure Sodium),Active,6834.9,101.55,2026-08-09 09:24:11,185.9,1.61,0,36,0
+SL-1607,Harbor Waterfront,LED (Smart),Active,2432.2,26.6,2026-07-07 01:24:11,230.9,0.34,1,31,1
+SL-1608,Harbor Waterfront,HPS (High Pressure Sodium),Active,14727.7,76.23,2026-08-18 23:24:11,219.5,1.08,0,61,1
+SL-1609,North Residential,HPS (High Pressure Sodium),Inactive,4466.0,81.56,2026-08-11 01:24:11,226.4,1.14,0,46,0
+SL-1610,Tech Park Sector 5,Metal Halide,Active,13109.2,28.6,2026-07-12 23:24:11,190.8,0.78,2,37,0
+SL-1611,Downtown Commercial,HPS (High Pressure Sodium),Active,9581.6,97.11,2026-06-29 17:24:11,,1.25,1,46,0
+SL-1612,Downtown Commercial,Metal Halide,Active,12786.3,51.45,2026-08-08 10:24:11,221.9,0.46,4,63,0
+SL-1613,North Residential,LED (Smart),Active,3896.7,22.19,2026-08-12 21:24:11,219.3,0.44,0,26,0
+SL-1614,Industrial Corridor,LED (Smart),Active,5990.1,44.15,2026-08-31 02:24:11,227.7,0.25,0,28,0
+SL-1615,North Residential,HPS (High Pressure Sodium),Active,8985.6,92.78,2026-07-06 01:24:11,228.5,1.28,0,30,0
+SL-1616,Industrial Corridor,LED (Smart),Active,3725.7,27.03,2026-07-10 19:24:11,220.0,0.38,0,32,0
+SL-1617,Tech Park Sector 5,LED (Smart),Active,6357.5,21.52,2026-07-16 21:24:11,234.2,0.41,0,23,0
+SL-1618,Industrial Corridor,LED (Smart),Active,6773.8,23.22,2026-07-20 09:24:11,215.9,,0,30,0
+SL-1619,Industrial Corridor,HPS (High Pressure Sodium),Active,9619.7,72.01,2026-07-19 13:24:11,223.7,1.14,0,35,0
+SL-1620,Downtown Commercial,Metal Halide,Active,10980.8,38.61,2026-08-02 02:24:11,225.4,0.46,3,63,0
+SL-1621,Industrial Corridor,LED (Smart),Active,5749.1,39.18,2026-08-27 11:24:11,223.0,0.32,1,16,0
+SL-1622,Harbor Waterfront,HPS (High Pressure Sodium),Maintenance Required,8536.3,69.39,2026-09-09 09:24:11,215.7,1.13,0,36,1
+SL-1623,Tech Park Sector 5,HPS (High Pressure Sodium),Maintenance Required,14472.1,86.73,2026-08-01 21:24:11,225.4,1.16,1,48,1
+SL-1624,Suburban Ring,Metal Halide,Active,11324.4,21.99,2026-08-28 03:24:11,220.8,0.63,3,29,0
+SL-1625,North Residential,LED (Smart),Active,7141.5,27.47,2026-08-18 07:24:11,227.0,,0,33,0
+SL-1626,Tech Park Sector 5,HPS (High Pressure Sodium),Active,10203.1,99.4,2026-08-22 21:24:11,231.7,1.13,2,33,0
+SL-1627,North Residential,LED (Smart),Active,4953.5,30.38,2026-08-05 02:24:11,230.0,0.3,1,5,0
+SL-1628,North Residential,Solar-Hybrid LED,Active,4448.0,14.7,2026-09-03 12:24:11,227.3,0.11,0,21,0
+SL-1629,Harbor Waterfront,HPS (High Pressure Sodium),Maintenance Required,7940.0,102.33,2026-07-24 20:24:11,226.3,1.15,0,43,1
+SL-1630,Tech Park Sector 5,HPS (High Pressure Sodium),Active,10591.8,70.75,2026-09-06 02:24:11,226.8,1.16,0,36,0
+SL-1631,Downtown Commercial,HPS (High Pressure Sodium),Active,6475.5,90.39,2026-08-03 09:24:11,224.3,1.2,2,45,1
+SL-1632,Industrial Corridor,HPS (High Pressure Sodium),Active,11762.4,83.04,2026-07-22 10:24:11,224.0,1.15,1,59,0
+SL-1633,Downtown Commercial,LED (Smart),Active,4205.7,40.44,2026-08-23 01:24:11,253.2,0.38,0,24,0
+SL-1634,Tech Park Sector 5,Metal Halide,Active,5189.8,26.99,2026-09-19 02:24:11,222.0,0.47,2,52,0
+SL-1635,Downtown Commercial,Metal Halide,Inactive,6874.5,45.51,2026-07-10 10:24:11,220.6,0.38,0,42,0
+SL-1636,Suburban Ring,HPS (High Pressure Sodium),Maintenance Required,9804.4,71.73,2026-07-07 01:24:11,256.3,1.29,2,60,1
+SL-1637,Tech Park Sector 5,LED (Smart),Active,2825.8,16.36,2026-08-24 13:24:11,224.8,,1,6,0
+SL-1638,North Residential,LED (Smart),Active,3179.2,25.47,2026-08-22 00:24:11,231.4,0.45,0,35,0
+SL-1639,Industrial Corridor,LED (Smart),Maintenance Required,6024.6,25.48,2026-08-19 16:24:11,219.8,0.38,2,20,1
+SL-1640,Suburban Ring,LED (Smart),Active,6044.8,31.06,2026-06-25 08:24:11,226.6,0.29,0,7,0
+SL-1641,Harbor Waterfront,LED (Smart),Active,1777.3,32.2,2026-08-01 08:24:11,227.0,0.46,1,12,1
+SL-1642,Industrial Corridor,HPS (High Pressure Sodium),Active,11071.5,101.79,2026-07-05 22:24:11,218.7,1.24,1,37,1
+SL-1643,Downtown Commercial,Solar-Hybrid LED,Active,5200.8,24.71,2026-08-15 16:24:11,191.7,0.15,0,4,0
+SL-1644,Harbor Waterfront,HPS (High Pressure Sodium),Active,10174.6,78.13,2026-09-18 17:24:11,250.1,1.14,1,27,1
+SL-1645,North Residential,Metal Halide,Active,8198.4,52.59,2026-07-26 04:24:11,232.9,0.51,0,36,0
+SL-1646,Suburban Ring,HPS (High Pressure Sodium),Active,12593.0,66.3,2026-09-13 03:24:11,223.9,1.21,2,71,1
+SL-1647,Tech Park Sector 5,LED (Smart),Maintenance Required,3097.7,18.74,2026-07-29 19:24:11,246.2,0.31,0,37,1
+SL-1648,North Residential,LED (Smart),Active,5447.7,25.07,2026-09-21 15:24:11,226.0,0.26,0,24,0
+SL-1649,Tech Park Sector 5,LED (Smart),Active,6859.7,27.46,2026-06-29 03:24:11,220.8,0.28,0,26,0
+SL-1650,Tech Park Sector 5,LED (Smart),Active,4478.9,14.04,2026-06-29 16:24:11,225.1,0.37,1,12,0
+SL-1629,Harbor Waterfront,HPS (High Pressure Sodium),Maintenance Required,7940.0,102.33,2026-07-24 20:24:11,226.3,1.15,0,43,1
+SL-1555,Downtown Commercial,LED (Smart),Active,4572.3,32.58,2026-08-31 06:24:11,226.3,0.38,0,5,0
+SL-1500,Downtown Commercial,LED (Smart),Active,6421.7,32.97,2026-09-20 11:24:11,231.8,0.32,0,7,0
+SL-1595,Industrial Corridor,LED (Smart),Active,9194.2,50.94,2026-07-04 09:24:11,227.0,0.32,2,36,0
+SL-1297,Downtown Commercial,LED (Smart),Active,5709.6,42.76,2026-06-27 06:24:11,225.7,0.47,1,26,0
+SL-1323,Downtown Commercial,HPS (High Pressure Sodium),Active,4637.3,97.18,2026-09-19 15:24:11,225.7,1.14,2,45,0
+SL-1320,North Residential,LED (Smart),Active,4640.6,21.51,2026-09-14 09:24:11,225.6,0.39,0,33,0
+SL-1302,Harbor Waterfront,HPS (High Pressure Sodium),Maintenance Required,8084.7,76.74,2026-07-28 18:24:11,224.2,1.22,1,68,1
+SL-1481,Downtown Commercial,HPS (High Pressure Sodium),Active,6860.9,133.67,2026-09-06 23:24:11,223.4,1.25,0,27,0
+SL-1097,Harbor Waterfront,HPS (High Pressure Sodium),Active,12556.3,75.34,2026-07-28 17:24:11,223.6,1.16,1,38,1
+SL-1560,Downtown Commercial,LED (Smart),Maintenance Required,2640.5,25.91,2026-08-23 21:24:11,177.9,0.53,0,27,1
+SL-1388,Industrial Corridor,Metal Halide,Active,4075.8,36.2,2026-09-18 18:24:11,219.6,0.42,2,27,0
